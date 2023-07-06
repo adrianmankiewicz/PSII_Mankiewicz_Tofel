@@ -1313,3 +1313,45 @@ LogInit: Object subsystem initialized
 [2023.07.06-10.32.30:450][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
 [2023.07.06-10.32.30:483][186]LogPlayLevel: Display: Destroying online subsystem :Context_3
 [2023.07.06-10.34.14:443][413]LogDerivedDataCache: C:/Users/adria/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.111 and deleted 0 files with total size 0 MiB. Scanned 7170 files in 7049 folders with total size 840 MiB.
+[2023.07.06-10.37.50:820][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.07.06-10.37.52:069][675]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-10.37.52:085][675]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-10.37.52:168][675]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.005361 seconds
+[2023.07.06-10.37.52:169][675]LogSerialization: UsePackageTrailer: 'true'
+[2023.07.06-10.37.52:169][675]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416
+[2023.07.06-10.37.52:170][675]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/TS5OQ5CRUWFZYL1ZQ7I416347049FF44023569588F66AEBD85A32C.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset'
+[2023.07.06-10.37.52:172][675]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV
+[2023.07.06-10.37.52:172][675]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/N10XDC9G27EMLS5AGZ6AVVE9E063E042CAECD5C5E03482A0E46854.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset'
+[2023.07.06-10.37.52:174][675]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER
+[2023.07.06-10.37.52:174][675]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/A7GPT109Y6ZTTJD4A7TXER9000181F4E343DF7CB78209378E821B8.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset'
+[2023.07.06-10.37.52:176][675]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG
+[2023.07.06-10.37.52:176][675]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/30UBDLYFFA5ZR7U4W4L4GG21993A944B81267C29A073BF755C64EC.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset'
+[2023.07.06-10.37.52:178][675]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY
+[2023.07.06-10.37.52:178][675]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/DXUWD12MD3HRWVVXX076BY995E95BF46C51853B41FA3A5756FF912.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset'
+[2023.07.06-10.37.52:179][675]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW
+[2023.07.06-10.37.52:180][675]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/2QISIGK5DJNQ05US8O8FXWADF60B08441404900FE2589DEBA3DC6B.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset'
+[2023.07.06-10.37.52:181][675]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R
+[2023.07.06-10.37.52:182][675]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/87SHEJN5UBEAN2K5OV1G6RE6D65ECC4FBA76AD7C7CCEBCB1F7975E.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset'
+[2023.07.06-10.37.52:196][675]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms
+[2023.07.06-10.37.52:200][675]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-10.37.52:200][675]LogContentValidation: Display: Validating /Script/Engine.PostProcessVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PostProcessVolume_0
+[2023.07.06-10.37.52:200][675]LogContentValidation: Display: Validating /Script/Engine.VolumetricCloud /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.VolumetricCloud_0
+[2023.07.06-10.37.52:202][675]LogContentValidation: Display: Validating /Script/Engine.SkyAtmosphere /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkyAtmosphere_0
+[2023.07.06-10.37.52:202][675]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
+[2023.07.06-10.37.52:202][675]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DirectionalLight_0
+[2023.07.06-10.37.52:202][675]LogContentValidation: Display: Validating /Script/Engine.ExponentialHeightFog /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ExponentialHeightFog_0
+[2023.07.06-10.37.52:202][675]LogContentValidation: Display: Validating /Script/Engine.SkyLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkyLight_1
+[2023.07.06-10.37.59:025][ 61]LogShaderCompilers: Display: ================================================
+[2023.07.06-10.37.59:025][ 61]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.06-10.37.59:025][ 61]LogShaderCompilers: Display: Total job queries 151, among them cache hits 8 (5.30%)
+[2023.07.06-10.37.59:025][ 61]LogShaderCompilers: Display: Tracking 143 distinct input hashes that result in 87 distinct outputs (60.84%)
+[2023.07.06-10.37.59:025][ 61]LogShaderCompilers: Display: RAM used: 1.12 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2023.07.06-10.37.59:025][ 61]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.06-10.37.59:025][ 61]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.07.06-10.37.59:025][ 61]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.07.06-10.37.59:025][ 61]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.07.06-10.37.59:025][ 61]LogShaderCompilers: Display: ================================================
+[2023.07.06-10.38.06:354][489]Cmd: TRANSACTION UNDO
+[2023.07.06-10.38.06:356][489]LogEditorTransaction: Undo Rotate Elements
+[2023.07.06-10.38.27:104][701]Cmd: TRANSACTION UNDO
+[2023.07.06-10.38.27:104][701]LogEditorTransaction: Undo Rotate Elements
