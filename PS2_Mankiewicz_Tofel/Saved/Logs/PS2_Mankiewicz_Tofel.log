@@ -1355,3 +1355,1620 @@ LogInit: Object subsystem initialized
 [2023.07.06-10.38.06:356][489]LogEditorTransaction: Undo Rotate Elements
 [2023.07.06-10.38.27:104][701]Cmd: TRANSACTION UNDO
 [2023.07.06-10.38.27:104][701]LogEditorTransaction: Undo Rotate Elements
+[2023.07.06-10.42.19:967][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.07.06-10.42.19:968][306]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.009
+[2023.07.06-10.44.57:099][992]LogViewport: Scene viewport resized to 946x716, mode Windowed.
+[2023.07.06-10.45.01:246][137]LogInterchangeEngine: [Pending] Importing
+[2023.07.06-10.45.01:246][137]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.06-10.45.01:246][137]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.07.06-10.45.01:246][137]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.07.06-10.45.01:247][137]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.07.06-10.45.01:249][137]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\adria\Desktop\source/torch.fbx)
+[2023.07.06-10.45.01:283][137]LogFbx: Loading FBX Scene from C:\Users\adria\Desktop\source/torch.fbx
+[2023.07.06-10.45.01:291][137]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.06-10.45.01:388][137]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/torch/source/textures/torch_Metallic.torch_Metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.062484 MB), EncodeSpeed: Fast
+[2023.07.06-10.45.01:397][137]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/torch/source/textures/torch_Roughness.torch_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.062484 MB), EncodeSpeed: Fast
+[2023.07.06-10.45.01:470][137]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.07.06-10.45.01:470][137]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.07.06-10.45.01:471][137]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.06-10.45.01:539][137]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/torch/source/textures/torch_Height.torch_Height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.062484 MB), EncodeSpeed: Fast
+[2023.07.06-10.45.01:571][137]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/torch/source/textures/torch_BaseColor.torch_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 304.062484 MB), EncodeSpeed: Fast
+[2023.07.06-10.45.01:572][137]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.07.06-10.45.01:742][137]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/torch/source/textures/torch_Normal.torch_Normal (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 304.062484 MB), EncodeSpeed: Fast
+[2023.07.06-10.45.01:750][137]LogInterchangeEngine: [Success] Import Done
+[2023.07.06-10.45.03:297][137]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.07.06-10.45.03:324][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.07.06-10.45.03:325][137]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2023.07.06-10.45.03:443][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.07.06-10.45.03:445][137]FBXImport: Import was canceled. 
+[2023.07.06-10.45.03:524][137]LogAssetTools: The import task was canceled.
+[2023.07.06-10.45.03:559][137]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.07.06-10.45.03:567][137]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/torch/source/textures/torch_Normal.torch_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 352.562488 MB), EncodeSpeed: Fast
+[2023.07.06-10.45.03:687][138]LogInterchangeEngine: [Success] Import Done
+[2023.07.06-10.45.05:124][208]LogSlate: Window 'Message Log' being destroyed
+[2023.07.06-10.45.05:133][208]LogSlate: Window 'Message Log' being destroyed
+[2023.07.06-10.45.23:581][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.07.06-10.45.24:795][ 61]LogSlate: Window 'Delete Assets' being destroyed
+[2023.07.06-10.45.24:821][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.07.06-10.45.24:835][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.07.06-10.45.24:844][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.07.06-10.45.29:178][169]LogInterchangeEngine: [Pending] Importing
+[2023.07.06-10.45.29:178][169]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.06-10.45.29:178][169]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.07.06-10.45.29:178][169]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.07.06-10.45.29:178][169]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.07.06-10.45.29:179][169]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\adria\Desktop\source\torch.fbx)
+[2023.07.06-10.45.29:185][169]LogFbx: Loading FBX Scene from C:\Users\adria\Desktop\source\torch.fbx
+[2023.07.06-10.45.29:189][169]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.06-10.45.29:282][169]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/torch/textures/torch_Metallic.torch_Metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.062484 MB), EncodeSpeed: Fast
+[2023.07.06-10.45.29:325][169]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.07.06-10.45.29:355][169]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/torch/textures/torch_Roughness.torch_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.062484 MB), EncodeSpeed: Fast
+[2023.07.06-10.45.29:355][169]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/torch/textures/torch_Height.torch_Height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.062484 MB), EncodeSpeed: Fast
+[2023.07.06-10.45.29:360][169]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.07.06-10.45.29:361][169]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.06-10.45.29:528][169]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.07.06-10.45.29:532][169]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/torch/textures/torch_BaseColor.torch_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 304.062484 MB), EncodeSpeed: Fast
+[2023.07.06-10.45.29:610][169]LogInterchangeEngine: [Success] Import Done
+[2023.07.06-10.45.29:615][169]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/torch/textures/torch_Normal.torch_Normal (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 304.062484 MB), EncodeSpeed: Fast
+[2023.07.06-10.45.41:308][169]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.07.06-10.45.41:426][169]LogFbx: Display: Triangulating static mesh torch
+[2023.07.06-10.45.41:448][169]LogStaticMesh: Display: Building static mesh torch...
+[2023.07.06-10.45.41:461][169]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPerson/Maps/torch/torch.torch
+[2023.07.06-10.45.41:478][169]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.07.06-10.45.41:576][169]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.07.06-10.45.41:583][169]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/torch/textures/torch_Normal.torch_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 352.562488 MB), EncodeSpeed: Fast
+[2023.07.06-10.45.41:678][170]LogInterchangeEngine: [Success] Import Done
+[2023.07.06-10.45.42:444][195]LogShaderCompilers: Display: ================================================
+[2023.07.06-10.45.42:444][195]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.06-10.45.42:444][195]LogShaderCompilers: Display: Total job queries 155, among them cache hits 8 (5.16%)
+[2023.07.06-10.45.42:444][195]LogShaderCompilers: Display: Tracking 144 distinct input hashes that result in 87 distinct outputs (60.42%)
+[2023.07.06-10.45.42:444][195]LogShaderCompilers: Display: RAM used: 1.13 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2023.07.06-10.45.42:444][195]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.06-10.45.42:444][195]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.07.06-10.45.42:444][195]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2023.07.06-10.45.42:444][195]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2023.07.06-10.45.42:444][195]LogShaderCompilers: Display: Job execution time: average 0.53 s, max 0.53 s
+[2023.07.06-10.45.42:444][195]LogShaderCompilers: Display: Job life time (pending + execution): average 0.58 s, max 0.58
+[2023.07.06-10.45.42:445][195]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.58 s
+[2023.07.06-10.45.42:445][195]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.06-10.45.42:445][195]LogShaderCompilers: Display: Average processing rate: 1.74 jobs/sec
+[2023.07.06-10.45.42:445][195]LogShaderCompilers: Display: Total thread time: 0.25 s
+[2023.07.06-10.45.42:445][195]LogShaderCompilers: Display: Total thread preprocess time: 0.03 s
+[2023.07.06-10.45.42:445][195]LogShaderCompilers: Display: Percentage time preprocessing: 10.86%
+[2023.07.06-10.45.42:445][195]LogShaderCompilers: Display: Effective parallelization: 0.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.07.06-10.45.42:445][195]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.07.06-10.45.42:445][195]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2023.07.06-10.45.42:445][195]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.07.06-10.45.42:445][195]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2023.07.06-10.45.42:445][195]LogShaderCompilers: Display: ================================================
+[2023.07.06-10.45.50:709][688]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/torch/textures/torch_Normal.torch_Normal (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 304.062484 MB), EncodeSpeed: Fast
+[2023.07.06-10.45.59:436][212]LogSlate: Window 'Message Log' being destroyed
+[2023.07.06-10.45.59:443][212]LogSlate: Window 'Message Log' being destroyed
+[2023.07.06-10.46.01:133][313]LogViewport: Scene viewport resized to 1920x721, mode Windowed.
+[2023.07.06-10.46.02:746][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/torch/torch.torch
+[2023.07.06-10.46.02:746][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/torch/torch.torch
+[2023.07.06-10.46.02:747][393]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/torch/torch.torch as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+[2023.07.06-10.46.04:425][491]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/torch/torch.torch
+[2023.07.06-10.46.04:425][491]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/torch/torch.torch
+[2023.07.06-10.46.04:428][491]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/torch/torch.torch as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E4A8DFCE2622209301_1681931023
+[2023.07.06-10.46.07:872][689]Cmd: TRANSACTION UNDO
+[2023.07.06-10.46.07:872][689]LogEditorTransaction: Undo Create Actors
+[2023.07.06-10.46.12:250][931]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPerson/Maps/torch/torch.torch
+[2023.07.06-10.46.12:304][931]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.06-10.46.12:586][931]LogViewport: Scene viewport resized to 1131x706, mode Windowed.
+[2023.07.06-10.46.15:908][119]LogSlate: Window 'torch' being destroyed
+[2023.07.06-10.46.15:913][119]LogSlate: Window 'torch' being destroyed
+[2023.07.06-10.46.15:938][119]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.07.06-10.46.15:939][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-10.46.18:875][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.07.06-10.46.19:997][278]LogSlate: Window 'Delete Assets' being destroyed
+[2023.07.06-10.46.20:026][278]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E4A8DFCE2622209301_1681931023 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/PD/L844QXNN1TH108FSQ84NYA.PackageMetaData in its package
+[2023.07.06-10.46.20:028][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.07.06-10.46.20:040][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.07.06-10.46.20:050][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.07.06-10.46.20:063][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.07.06-10.46.27:539][496]LogViewport: Scene viewport resized to 1463x564, mode Windowed.
+[2023.07.06-10.46.34:147][622]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\adria\Desktop\source\torch.fbx)
+[2023.07.06-10.46.34:151][622]LogFbx: Loading FBX Scene from C:\Users\adria\Desktop\source\torch.fbx
+[2023.07.06-10.46.34:154][622]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.06-10.47.24:102][622]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.07.06-10.47.24:223][622]LogFbx: Display: Triangulating static mesh torch
+[2023.07.06-10.47.24:253][622]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.07.06-10.47.44:906][763]LogViewport: Scene viewport resized to 1920x721, mode Windowed.
+[2023.07.06-10.48.03:815][871]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPerson/Maps/torch/torch.torch
+[2023.07.06-10.48.03:872][871]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.06-10.48.04:065][871]LogViewport: Scene viewport resized to 1133x709, mode Windowed.
+[2023.07.06-10.48.05:851][976]LogSlate: Window 'torch' being destroyed
+[2023.07.06-10.48.05:858][976]LogSlate: Window 'torch' being destroyed
+[2023.07.06-10.48.05:881][976]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.07.06-10.48.05:881][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-10.48.09:542][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.07.06-10.48.11:016][193]LogSlate: Window 'Delete Assets' being destroyed
+[2023.07.06-10.48.11:041][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.07.06-10.48.11:055][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.07.06-10.48.11:066][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.07.06-10.48.17:525][370]LogViewport: Scene viewport resized to 946x716, mode Windowed.
+[2023.07.06-10.48.23:587][615]LogSlate: Window 'Message Log' being destroyed
+[2023.07.06-10.48.23:591][615]LogSlate: Window 'Message Log' being destroyed
+[2023.07.06-10.48.25:806][745]LogSlate: Window 'Plugins' being destroyed
+[2023.07.06-10.48.25:810][745]LogSlate: Window 'Plugins' being destroyed
+[2023.07.06-10.48.25:812][745]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2023.07.06-10.48.32:691][857]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\adria\Desktop\source\torch.fbx)
+[2023.07.06-10.48.32:696][857]LogFbx: Loading FBX Scene from C:\Users\adria\Desktop\source\torch.fbx
+[2023.07.06-10.48.32:699][857]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.06-10.49.00:595][857]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.07.06-10.49.00:709][857]LogFbx: Display: Triangulating static mesh torch
+[2023.07.06-10.49.00:736][857]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: ================================================
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: Total job queries 171, among them cache hits 12 (7.02%)
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: Tracking 159 distinct input hashes that result in 91 distinct outputs (57.23%)
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: RAM used: 1.21 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.15%
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: Shaders Compiled: 8
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100.00%)
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: Average time worker was idle: 102.00 s
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: Job execution time: average 0.69 s, max 0.83 s
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: Job life time (pending + execution): average 0.74 s, max 0.88
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.66 s
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: Average processing rate: 4.82 jobs/sec
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: Total thread time: 3.50 s
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: Total thread preprocess time: 0.30 s
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: Percentage time preprocessing: 8.49%
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: Effective parallelization: 2.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.51 sec, max 0.57 sec, min 0.46 sec)
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.49 sec, max 0.54 sec, min 0.43 sec)
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.45 sec, max 0.50 sec, min 0.39 sec)
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.31 sec, max 0.36 sec, min 0.25 sec)
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.22% of total time (compiled    2 times, average 0.51 sec, max 0.57 sec, min 0.46 sec)
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.74% of total time (compiled    2 times, average 0.49 sec, max 0.54 sec, min 0.43 sec)
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display:                                                 FLumenCardVS - 25.43% of total time (compiled    2 times, average 0.45 sec, max 0.50 sec, min 0.39 sec)
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 17.61% of total time (compiled    2 times, average 0.31 sec, max 0.36 sec, min 0.25 sec)
+[2023.07.06-10.49.00:981][862]LogShaderCompilers: Display: ================================================
+[2023.07.06-10.49.10:909][454]LogSlate: Window 'Message Log' being destroyed
+[2023.07.06-10.49.10:915][454]LogSlate: Window 'Message Log' being destroyed
+[2023.07.06-10.49.13:285][593]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPerson/Maps/torch/torch.torch
+[2023.07.06-10.49.13:330][593]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.06-10.49.13:536][593]LogViewport: Scene viewport resized to 1135x712, mode Windowed.
+[2023.07.06-10.49.15:106][682]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.06-10.49.24:499][233]LogSlate: Window 'torch' being destroyed
+[2023.07.06-10.49.24:504][233]LogSlate: Window 'torch' being destroyed
+[2023.07.06-10.49.24:531][233]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.07.06-10.49.24:531][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-10.49.26:252][335]LogViewport: Scene viewport resized to 1920x721, mode Windowed.
+[2023.07.06-10.49.27:719][415]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPerson/Maps/torch/torch.torch
+[2023.07.06-10.49.27:779][415]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.06-10.49.28:027][415]LogViewport: Scene viewport resized to 1137x715, mode Windowed.
+[2023.07.06-10.49.31:021][588]LogViewport: Scene viewport resized to 1765x1161, mode Windowed.
+[2023.07.06-10.49.52:534][864]LogSlate: Window 'torch' being destroyed
+[2023.07.06-10.49.52:540][864]LogSlate: Window 'torch' being destroyed
+[2023.07.06-10.49.52:566][864]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.07.06-10.49.52:566][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-10.50.02:465][445]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/torch/torch.torch
+[2023.07.06-10.50.02:465][445]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/torch/torch.torch
+[2023.07.06-10.50.02:465][445]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/torch/torch.torch as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+[2023.07.06-10.50.03:675][516]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/torch/torch.torch
+[2023.07.06-10.50.03:677][516]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/torch/torch.torch
+[2023.07.06-10.50.03:678][516]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/torch/torch.torch as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E4A8DFCE2622209301_1921180024
+[2023.07.06-10.51.38:548][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.07.06-10.51.40:157][782]LogSlate: Window 'Delete Assets' being destroyed
+[2023.07.06-10.51.40:190][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.07.06-10.51.40:202][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.07.06-10.51.40:212][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.07.06-10.51.50:848][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.07.06-10.51.52:018][408]LogSlate: Window 'Delete Assets' being destroyed
+[2023.07.06-10.51.52:043][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.07.06-10.51.52:063][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.07.06-10.51.52:075][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.07.06-10.51.54:009][507]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.06-10.51.54:009][507]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.06-10.51.54:009][507]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.06-10.51.55:379][507]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.07.06-10.51.55:418][507]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.07.06-10.51.55:422][507]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.07.06-10.51.55:436][508]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.07.06-10.52.12:929][555]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Torch
+[2023.07.06-10.52.12:941][555]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.07.06-10.52.15:329][696]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch
+[2023.07.06-10.52.15:333][696]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.06-10.52.16:536][696]LogViewport: Scene viewport resized to 1573x925, mode Windowed.
+[2023.07.06-10.52.20:776][945]LogViewport: Scene viewport resized to 1009x549, mode Windowed.
+[2023.07.06-10.52.43:704][269]LogViewport: Scene viewport resized to 1573x925, mode Windowed.
+[2023.07.06-10.54.07:601][ 88]LogSlate: Window 'Color Picker' being destroyed
+[2023.07.06-10.54.09:883][221]BlueprintLog: New page: Compile BP_Torch
+[2023.07.06-10.54.09:958][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.07.06-10.54.10:954][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-10.54.11:030][278]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/torch/BP_Torch
+[2023.07.06-10.54.11:030][278]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_Torch5998D99F4D9E88094D1E9DA7BFE6AD59.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/torch/BP_Torch.uasset'
+[2023.07.06-10.54.11:038][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 194 ms)
+[2023.07.06-10.54.11:042][278]AssetCheck: New page: Asset Save: BP_Torch
+[2023.07.06-10.54.11:042][278]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch
+[2023.07.06-10.54.12:087][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.07.06-10.54.12:879][338]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-10.54.12:909][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-10.54.12:996][338]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/torch/torch
+[2023.07.06-10.54.12:996][338]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/torch506E199F46BB2DF5F1B22EA8C81BC06E.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/torch/torch.uasset'
+[2023.07.06-10.54.12:999][338]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/ET/VLJHUPRQXIS911GVOTFOGL
+[2023.07.06-10.54.12:999][338]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/VLJHUPRQXIS911GVOTFOGLD422F8324EC4204682B1D5908B3A1CCE.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/ET/VLJHUPRQXIS911GVOTFOGL.uasset'
+[2023.07.06-10.54.13:176][338]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/torch/textures/torch_BaseColor
+[2023.07.06-10.54.13:176][338]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/torch_BaseColor8259B19A490B56452778BB997248E1E5.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/torch/textures/torch_BaseColor.uasset'
+[2023.07.06-10.54.13:186][338]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/torch/textures/torch_BaseColor_Mat
+[2023.07.06-10.54.13:186][338]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/torch_BaseColor_MatD773F15A4CADB71A55A7F893CA77CE25.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/torch/textures/torch_BaseColor_Mat.uasset'
+[2023.07.06-10.54.13:195][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 286 ms (total: 481 ms)
+[2023.07.06-10.54.13:199][338]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-10.54.13:199][338]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ThirdPerson/Maps/torch/textures/torch_BaseColor.torch_BaseColor
+[2023.07.06-10.54.13:199][338]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ThirdPerson/Maps/torch/torch.torch
+[2023.07.06-10.54.13:199][338]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E4A8DFCE2622209301_1921180024
+[2023.07.06-10.54.13:199][338]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ThirdPerson/Maps/torch/textures/torch_BaseColor_Mat.torch_BaseColor_Mat
+[2023.07.06-10.54.16:051][504]Cmd: DELETE
+[2023.07.06-10.54.16:051][504]Cmd: ACTOR DELETE
+[2023.07.06-10.54.16:060][504]LogEditorActor: Cannot delete component StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E4A8DFCE2622209301_1921180024.StaticMeshComponent0: Can't delete non-instanced components or the scene root.
+[2023.07.06-10.54.19:042][680]Cmd: DELETE
+[2023.07.06-10.54.19:042][680]Cmd: ACTOR DELETE
+[2023.07.06-10.54.19:043][680]LogEditorActor: Cannot delete component StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E4A8DFCE2622209301_1921180024.StaticMeshComponent0: Can't delete non-instanced components or the scene root.
+[2023.07.06-10.54.20:915][785]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.07.06-10.54.26:449][ 66]Cmd: DELETE
+[2023.07.06-10.54.26:449][ 66]Cmd: ACTOR DELETE
+[2023.07.06-10.54.26:455][ 66]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.06-10.54.26:485][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.07.06-10.54.26:487][ 66]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2023.07.06-10.54.28:226][161]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C
+[2023.07.06-10.54.28:230][161]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C
+[2023.07.06-10.54.28:232][161]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_0
+[2023.07.06-10.54.28:234][161]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_0
+[2023.07.06-10.54.29:576][236]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C
+[2023.07.06-10.54.29:576][236]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C
+[2023.07.06-10.54.29:578][236]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-10.54.29:580][236]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-10.55.04:815][302]LogEditorTransaction: Undo Modify Component Location
+[2023.07.06-10.55.20:009][128]LogEditorTransaction: Undo Modify Component Location
+[2023.07.06-10.55.42:361][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.07.06-10.55.42:893][388]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-10.55.42:924][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-10.55.43:034][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.07.06-10.55.43:065][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.07.06-10.55.43:092][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.07.06-10.55.43:094][388]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889
+[2023.07.06-10.55.43:094][388]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FX6RHZN183V4HILBSPI889799A98AF4F76C7C905F6DDA29410F563.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889.uasset'
+[2023.07.06-10.55.43:098][388]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/torch/BP_Torch
+[2023.07.06-10.55.43:099][388]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_Torch9BDE7A75427310168B330FB4937B3D7B.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/torch/BP_Torch.uasset'
+[2023.07.06-10.55.43:106][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 663 ms)
+[2023.07.06-10.55.43:111][388]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-10.55.43:111][388]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch
+[2023.07.06-10.55.43:111][388]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-10.56.03:842][568]BlueprintLog: New page: Compile BP_Torch
+[2023.07.06-10.56.03:891][568]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E4A8DFCE2622209301_1921180024 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/ET/VLJHUPRQXIS911GVOTFOGL.PackageMetaData in its package
+[2023.07.06-10.56.03:893][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.07.06-10.56.03:934][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.07.06-10.56.05:125][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.07.06-10.56.06:031][630]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-10.56.06:064][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-10.56.06:146][630]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/torch/BP_Torch
+[2023.07.06-10.56.06:146][630]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_TorchFB997CE8418BBE34C25AC2A9308E2D26.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/torch/BP_Torch.uasset'
+[2023.07.06-10.56.06:148][630]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889
+[2023.07.06-10.56.06:149][630]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FX6RHZN183V4HILBSPI889786449DF4F8E94B2159CDD83C263A66B.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889.uasset'
+[2023.07.06-10.56.06:158][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 757 ms)
+[2023.07.06-10.56.06:162][630]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-10.56.06:162][630]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch
+[2023.07.06-10.56.06:162][630]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-10.57.04:504][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.07.06-10.57.06:299][ 33]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-10.57.13:178][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.07.06-10.57.14:191][430]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-10.57.14:206][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-10.57.14:280][430]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/torch/BP_Torch
+[2023.07.06-10.57.14:280][430]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_TorchAAE120444E2B0D847A1F01885367AE17.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/torch/BP_Torch.uasset'
+[2023.07.06-10.57.14:283][430]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889
+[2023.07.06-10.57.14:284][430]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FX6RHZN183V4HILBSPI889ACD3F4534799D17CA39C7FA1EBEAEBD8.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889.uasset'
+[2023.07.06-10.57.14:305][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 856 ms)
+[2023.07.06-10.57.14:310][430]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-10.57.14:310][430]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch
+[2023.07.06-10.57.14:310][430]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-10.57.46:001][240]BlueprintLog: New page: Compile BP_Torch
+[2023.07.06-10.57.46:066][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.07.06-10.57.47:005][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.07.06-10.57.47:773][288]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-10.57.47:788][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-10.57.47:879][288]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/torch/BP_Torch
+[2023.07.06-10.57.47:879][288]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_TorchDA4CD0B545BBB5602D5E78832259D27E.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/torch/BP_Torch.uasset'
+[2023.07.06-10.57.47:881][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889
+[2023.07.06-10.57.47:882][288]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FX6RHZN183V4HILBSPI889DEA12E164471BBD60CFC8C999EC9EBE1.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889.uasset'
+[2023.07.06-10.57.47:904][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 973 ms)
+[2023.07.06-10.57.47:908][288]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-10.57.47:908][288]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch
+[2023.07.06-10.57.47:908][288]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-10.58.17:205][ 22]Cmd: TRANSACTION UNDO
+[2023.07.06-10.58.17:205][ 22]LogEditorTransaction: Undo Set Rotation
+[2023.07.06-10.58.30:381][784]Cmd: TRANSACTION UNDO
+[2023.07.06-10.58.30:381][784]LogEditorTransaction: Undo Set Rotation
+[2023.07.06-10.58.51:593][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.07.06-10.58.52:692][  0]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-10.58.52:708][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-10.58.52:787][  0]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889
+[2023.07.06-10.58.52:788][  0]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FX6RHZN183V4HILBSPI8898D4A46E04167B8B0621D41A6DF42012E.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889.uasset'
+[2023.07.06-10.58.52:803][  0]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/torch/BP_Torch
+[2023.07.06-10.58.52:803][  0]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_Torch9A0EFEFF44009044030F1791E75AA6EE.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/torch/BP_Torch.uasset'
+[2023.07.06-10.58.52:805][  0]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416
+[2023.07.06-10.58.52:806][  0]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/TS5OQ5CRUWFZYL1ZQ7I4167BB602F049CF50CBA0BFDFAA4A488E3A.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset'
+[2023.07.06-10.58.52:829][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 1.09 sec)
+[2023.07.06-10.58.52:834][  0]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-10.58.52:834][  0]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DirectionalLight_0
+[2023.07.06-10.58.52:834][  0]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch
+[2023.07.06-10.58.52:834][  0]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-10.59.00:374][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.07.06-10.59.01:305][373]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-10.59.01:320][373]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-10.59.01:404][373]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/torch/BP_Torch
+[2023.07.06-10.59.01:404][373]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_Torch9791DED446A39E39A771F18A1DD58ED0.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/torch/BP_Torch.uasset'
+[2023.07.06-10.59.01:406][373]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889
+[2023.07.06-10.59.01:406][373]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FX6RHZN183V4HILBSPI88942CA18D5412CD07944B41AA00B123FBE.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889.uasset'
+[2023.07.06-10.59.01:430][373]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.20 sec)
+[2023.07.06-10.59.01:434][373]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-10.59.01:435][373]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch
+[2023.07.06-10.59.01:435][373]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-10.59.03:201][479]BlueprintLog: New page: Compile BP_Torch
+[2023.07.06-10.59.03:250][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.07.06-10.59.04:372][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-10.59.04:439][542]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/torch/BP_Torch
+[2023.07.06-10.59.04:439][542]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_Torch4FDACCF941E5AF4562771497C63E6273.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/torch/BP_Torch.uasset'
+[2023.07.06-10.59.04:446][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 1.27 sec)
+[2023.07.06-10.59.04:452][542]AssetCheck: New page: Asset Save: BP_Torch
+[2023.07.06-10.59.04:452][542]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch
+[2023.07.06-10.59.06:069][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.07.06-10.59.06:748][637]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-10.59.06:765][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-10.59.06:839][637]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889
+[2023.07.06-10.59.06:840][637]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FX6RHZN183V4HILBSPI889522E6EC14D5237E969C670B885391D43.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889.uasset'
+[2023.07.06-10.59.06:864][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 1.37 sec)
+[2023.07.06-10.59.06:868][637]AssetCheck: New page: Asset Save: BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-10.59.06:868][637]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-10.59.20:298][409]LogViewport: Scene viewport resized to 773x918, mode Windowed.
+[2023.07.06-10.59.21:660][429]LogViewport: Scene viewport resized to 946x716, mode Windowed.
+[2023.07.06-10.59.28:072][783]LogViewport: Scene viewport resized to 947x716, mode Windowed.
+[2023.07.06-10.59.28:150][783]LogViewport: Scene viewport resized to 949x716, mode Windowed.
+[2023.07.06-10.59.28:267][783]LogViewport: Scene viewport resized to 950x716, mode Windowed.
+[2023.07.06-10.59.28:308][783]LogViewport: Scene viewport resized to 951x716, mode Windowed.
+[2023.07.06-10.59.28:350][783]LogViewport: Scene viewport resized to 952x716, mode Windowed.
+[2023.07.06-10.59.28:398][783]LogViewport: Scene viewport resized to 954x716, mode Windowed.
+[2023.07.06-10.59.28:453][783]LogViewport: Scene viewport resized to 956x716, mode Windowed.
+[2023.07.06-10.59.28:500][783]LogViewport: Scene viewport resized to 957x716, mode Windowed.
+[2023.07.06-10.59.28:556][783]LogViewport: Scene viewport resized to 959x716, mode Windowed.
+[2023.07.06-10.59.28:610][783]LogViewport: Scene viewport resized to 963x716, mode Windowed.
+[2023.07.06-10.59.28:665][783]LogViewport: Scene viewport resized to 968x716, mode Windowed.
+[2023.07.06-10.59.28:719][783]LogViewport: Scene viewport resized to 971x716, mode Windowed.
+[2023.07.06-10.59.28:773][783]LogViewport: Scene viewport resized to 973x716, mode Windowed.
+[2023.07.06-10.59.28:825][783]LogViewport: Scene viewport resized to 976x716, mode Windowed.
+[2023.07.06-10.59.28:879][783]LogViewport: Scene viewport resized to 980x716, mode Windowed.
+[2023.07.06-10.59.28:931][783]LogViewport: Scene viewport resized to 981x716, mode Windowed.
+[2023.07.06-10.59.28:986][783]LogViewport: Scene viewport resized to 986x716, mode Windowed.
+[2023.07.06-10.59.29:042][783]LogViewport: Scene viewport resized to 990x716, mode Windowed.
+[2023.07.06-10.59.29:091][783]LogViewport: Scene viewport resized to 996x716, mode Windowed.
+[2023.07.06-10.59.29:144][783]LogViewport: Scene viewport resized to 997x716, mode Windowed.
+[2023.07.06-10.59.29:198][783]LogViewport: Scene viewport resized to 1002x716, mode Windowed.
+[2023.07.06-10.59.29:259][783]LogViewport: Scene viewport resized to 1011x716, mode Windowed.
+[2023.07.06-10.59.29:312][783]LogViewport: Scene viewport resized to 1017x716, mode Windowed.
+[2023.07.06-10.59.29:373][783]LogViewport: Scene viewport resized to 1025x716, mode Windowed.
+[2023.07.06-10.59.29:458][783]LogViewport: Scene viewport resized to 1033x716, mode Windowed.
+[2023.07.06-10.59.29:522][783]LogViewport: Scene viewport resized to 1043x716, mode Windowed.
+[2023.07.06-10.59.29:599][783]LogViewport: Scene viewport resized to 1052x716, mode Windowed.
+[2023.07.06-10.59.29:663][783]LogViewport: Scene viewport resized to 1056x716, mode Windowed.
+[2023.07.06-10.59.29:736][783]LogViewport: Scene viewport resized to 1061x716, mode Windowed.
+[2023.07.06-10.59.29:865][783]LogViewport: Scene viewport resized to 1066x716, mode Windowed.
+[2023.07.06-10.59.29:919][783]LogViewport: Scene viewport resized to 1067x716, mode Windowed.
+[2023.07.06-10.59.29:994][783]LogViewport: Scene viewport resized to 1070x716, mode Windowed.
+[2023.07.06-10.59.30:070][783]LogViewport: Scene viewport resized to 1074x716, mode Windowed.
+[2023.07.06-10.59.30:133][783]LogViewport: Scene viewport resized to 1076x716, mode Windowed.
+[2023.07.06-10.59.30:326][783]LogViewport: Scene viewport resized to 1077x716, mode Windowed.
+[2023.07.06-10.59.30:403][783]LogViewport: Scene viewport resized to 1078x716, mode Windowed.
+[2023.07.06-10.59.30:471][783]LogViewport: Scene viewport resized to 1084x716, mode Windowed.
+[2023.07.06-10.59.30:539][783]LogViewport: Scene viewport resized to 1086x716, mode Windowed.
+[2023.07.06-10.59.30:612][783]LogViewport: Scene viewport resized to 1093x716, mode Windowed.
+[2023.07.06-10.59.30:696][783]LogViewport: Scene viewport resized to 1098x716, mode Windowed.
+[2023.07.06-10.59.30:779][783]LogViewport: Scene viewport resized to 1103x716, mode Windowed.
+[2023.07.06-10.59.30:883][783]LogViewport: Scene viewport resized to 1104x716, mode Windowed.
+[2023.07.06-10.59.31:204][784]LogViewport: Scene viewport resized to 643x918, mode Windowed.
+[2023.07.06-10.59.33:126][891]LogViewport: Scene viewport resized to 1009x549, mode Windowed.
+[2023.07.06-10.59.36:004][999]LogViewport: Scene viewport resized to 1009x550, mode Windowed.
+[2023.07.06-10.59.36:042][999]LogViewport: Scene viewport resized to 1009x551, mode Windowed.
+[2023.07.06-10.59.36:073][999]LogViewport: Scene viewport resized to 1009x557, mode Windowed.
+[2023.07.06-10.59.36:104][999]LogViewport: Scene viewport resized to 1009x560, mode Windowed.
+[2023.07.06-10.59.36:136][999]LogViewport: Scene viewport resized to 1009x563, mode Windowed.
+[2023.07.06-10.59.36:166][999]LogViewport: Scene viewport resized to 1009x565, mode Windowed.
+[2023.07.06-10.59.36:197][999]LogViewport: Scene viewport resized to 1009x566, mode Windowed.
+[2023.07.06-10.59.36:232][999]LogViewport: Scene viewport resized to 1009x568, mode Windowed.
+[2023.07.06-10.59.36:263][999]LogViewport: Scene viewport resized to 1009x569, mode Windowed.
+[2023.07.06-10.59.36:299][999]LogViewport: Scene viewport resized to 1009x570, mode Windowed.
+[2023.07.06-10.59.36:329][999]LogViewport: Scene viewport resized to 1009x573, mode Windowed.
+[2023.07.06-10.59.36:368][999]LogViewport: Scene viewport resized to 1009x576, mode Windowed.
+[2023.07.06-10.59.36:410][999]LogViewport: Scene viewport resized to 1009x579, mode Windowed.
+[2023.07.06-10.59.36:943][999]LogViewport: Scene viewport resized to 1009x918, mode Windowed.
+[2023.07.06-10.59.41:976][287]LogViewport: Scene viewport resized to 1007x918, mode Windowed.
+[2023.07.06-10.59.42:016][287]LogViewport: Scene viewport resized to 1003x918, mode Windowed.
+[2023.07.06-10.59.42:051][287]LogViewport: Scene viewport resized to 999x918, mode Windowed.
+[2023.07.06-10.59.42:087][287]LogViewport: Scene viewport resized to 993x918, mode Windowed.
+[2023.07.06-10.59.42:124][287]LogViewport: Scene viewport resized to 981x918, mode Windowed.
+[2023.07.06-10.59.42:160][287]LogViewport: Scene viewport resized to 951x918, mode Windowed.
+[2023.07.06-10.59.42:195][287]LogViewport: Scene viewport resized to 914x918, mode Windowed.
+[2023.07.06-10.59.42:233][287]LogViewport: Scene viewport resized to 873x918, mode Windowed.
+[2023.07.06-10.59.42:274][287]LogViewport: Scene viewport resized to 817x918, mode Windowed.
+[2023.07.06-10.59.42:323][287]LogViewport: Scene viewport resized to 774x918, mode Windowed.
+[2023.07.06-10.59.42:360][287]LogViewport: Scene viewport resized to 733x918, mode Windowed.
+[2023.07.06-10.59.42:396][287]LogViewport: Scene viewport resized to 704x918, mode Windowed.
+[2023.07.06-10.59.42:427][287]LogViewport: Scene viewport resized to 675x918, mode Windowed.
+[2023.07.06-10.59.42:463][287]LogViewport: Scene viewport resized to 651x918, mode Windowed.
+[2023.07.06-10.59.42:499][287]LogViewport: Scene viewport resized to 642x918, mode Windowed.
+[2023.07.06-10.59.42:530][287]LogViewport: Scene viewport resized to 630x918, mode Windowed.
+[2023.07.06-10.59.42:561][287]LogViewport: Scene viewport resized to 622x918, mode Windowed.
+[2023.07.06-10.59.42:596][287]LogViewport: Scene viewport resized to 615x918, mode Windowed.
+[2023.07.06-10.59.42:633][287]LogViewport: Scene viewport resized to 605x918, mode Windowed.
+[2023.07.06-10.59.42:668][287]LogViewport: Scene viewport resized to 601x918, mode Windowed.
+[2023.07.06-10.59.42:705][287]LogViewport: Scene viewport resized to 595x918, mode Windowed.
+[2023.07.06-10.59.42:742][287]LogViewport: Scene viewport resized to 589x918, mode Windowed.
+[2023.07.06-10.59.42:779][287]LogViewport: Scene viewport resized to 588x918, mode Windowed.
+[2023.07.06-10.59.42:829][287]LogViewport: Scene viewport resized to 587x918, mode Windowed.
+[2023.07.06-10.59.42:864][287]LogViewport: Scene viewport resized to 586x918, mode Windowed.
+[2023.07.06-10.59.43:209][287]LogViewport: Scene viewport resized to 587x918, mode Windowed.
+[2023.07.06-10.59.43:246][287]LogViewport: Scene viewport resized to 595x918, mode Windowed.
+[2023.07.06-10.59.43:281][287]LogViewport: Scene viewport resized to 604x918, mode Windowed.
+[2023.07.06-10.59.43:318][287]LogViewport: Scene viewport resized to 624x918, mode Windowed.
+[2023.07.06-10.59.43:355][287]LogViewport: Scene viewport resized to 668x918, mode Windowed.
+[2023.07.06-10.59.43:391][287]LogViewport: Scene viewport resized to 696x918, mode Windowed.
+[2023.07.06-10.59.43:427][287]LogViewport: Scene viewport resized to 712x918, mode Windowed.
+[2023.07.06-10.59.43:464][287]LogViewport: Scene viewport resized to 728x918, mode Windowed.
+[2023.07.06-10.59.43:499][287]LogViewport: Scene viewport resized to 740x918, mode Windowed.
+[2023.07.06-10.59.43:537][287]LogViewport: Scene viewport resized to 752x918, mode Windowed.
+[2023.07.06-10.59.43:578][287]LogViewport: Scene viewport resized to 769x918, mode Windowed.
+[2023.07.06-10.59.43:615][287]LogViewport: Scene viewport resized to 786x918, mode Windowed.
+[2023.07.06-10.59.43:652][287]LogViewport: Scene viewport resized to 794x918, mode Windowed.
+[2023.07.06-10.59.43:688][287]LogViewport: Scene viewport resized to 801x918, mode Windowed.
+[2023.07.06-10.59.43:723][287]LogViewport: Scene viewport resized to 809x918, mode Windowed.
+[2023.07.06-10.59.43:762][287]LogViewport: Scene viewport resized to 817x918, mode Windowed.
+[2023.07.06-10.59.43:805][287]LogViewport: Scene viewport resized to 820x918, mode Windowed.
+[2023.07.06-10.59.43:845][287]LogViewport: Scene viewport resized to 822x918, mode Windowed.
+[2023.07.06-10.59.43:881][287]LogViewport: Scene viewport resized to 828x918, mode Windowed.
+[2023.07.06-10.59.43:924][287]LogViewport: Scene viewport resized to 840x918, mode Windowed.
+[2023.07.06-10.59.43:966][287]LogViewport: Scene viewport resized to 844x918, mode Windowed.
+[2023.07.06-10.59.44:023][287]LogViewport: Scene viewport resized to 845x918, mode Windowed.
+[2023.07.06-10.59.44:071][287]LogViewport: Scene viewport resized to 846x918, mode Windowed.
+[2023.07.06-10.59.44:180][287]LogViewport: Scene viewport resized to 848x918, mode Windowed.
+[2023.07.06-10.59.44:222][287]LogViewport: Scene viewport resized to 849x918, mode Windowed.
+[2023.07.06-10.59.44:258][287]LogViewport: Scene viewport resized to 850x918, mode Windowed.
+[2023.07.06-10.59.44:294][287]LogViewport: Scene viewport resized to 851x918, mode Windowed.
+[2023.07.06-10.59.44:365][287]LogViewport: Scene viewport resized to 853x918, mode Windowed.
+[2023.07.06-10.59.44:486][287]LogViewport: Scene viewport resized to 854x918, mode Windowed.
+[2023.07.06-10.59.44:533][287]LogViewport: Scene viewport resized to 855x918, mode Windowed.
+[2023.07.06-10.59.44:774][287]LogViewport: Scene viewport resized to 852x918, mode Windowed.
+[2023.07.06-10.59.44:816][287]LogViewport: Scene viewport resized to 848x918, mode Windowed.
+[2023.07.06-10.59.44:860][287]LogViewport: Scene viewport resized to 841x918, mode Windowed.
+[2023.07.06-10.59.44:900][287]LogViewport: Scene viewport resized to 817x918, mode Windowed.
+[2023.07.06-10.59.44:944][287]LogViewport: Scene viewport resized to 769x918, mode Windowed.
+[2023.07.06-10.59.44:992][287]LogViewport: Scene viewport resized to 735x918, mode Windowed.
+[2023.07.06-10.59.45:042][287]LogViewport: Scene viewport resized to 694x918, mode Windowed.
+[2023.07.06-10.59.45:090][287]LogViewport: Scene viewport resized to 668x918, mode Windowed.
+[2023.07.06-10.59.45:142][287]LogViewport: Scene viewport resized to 653x918, mode Windowed.
+[2023.07.06-10.59.45:192][287]LogViewport: Scene viewport resized to 638x918, mode Windowed.
+[2023.07.06-10.59.45:240][287]LogViewport: Scene viewport resized to 637x918, mode Windowed.
+[2023.07.06-10.59.45:288][287]LogViewport: Scene viewport resized to 633x918, mode Windowed.
+[2023.07.06-10.59.45:331][287]LogViewport: Scene viewport resized to 629x918, mode Windowed.
+[2023.07.06-10.59.45:379][287]LogViewport: Scene viewport resized to 624x918, mode Windowed.
+[2023.07.06-10.59.45:421][287]LogViewport: Scene viewport resized to 613x918, mode Windowed.
+[2023.07.06-10.59.45:462][287]LogViewport: Scene viewport resized to 597x918, mode Windowed.
+[2023.07.06-10.59.45:505][287]LogViewport: Scene viewport resized to 586x918, mode Windowed.
+[2023.07.06-10.59.45:547][287]LogViewport: Scene viewport resized to 569x918, mode Windowed.
+[2023.07.06-10.59.45:583][287]LogViewport: Scene viewport resized to 554x918, mode Windowed.
+[2023.07.06-10.59.45:621][287]LogViewport: Scene viewport resized to 544x918, mode Windowed.
+[2023.07.06-10.59.45:662][287]LogViewport: Scene viewport resized to 537x918, mode Windowed.
+[2023.07.06-10.59.45:698][287]LogViewport: Scene viewport resized to 535x918, mode Windowed.
+[2023.07.06-10.59.45:769][287]LogViewport: Scene viewport resized to 534x918, mode Windowed.
+[2023.07.06-10.59.45:813][287]LogViewport: Scene viewport resized to 532x918, mode Windowed.
+[2023.07.06-10.59.45:852][287]LogViewport: Scene viewport resized to 527x918, mode Windowed.
+[2023.07.06-10.59.45:887][287]LogViewport: Scene viewport resized to 522x918, mode Windowed.
+[2023.07.06-10.59.45:960][287]LogViewport: Scene viewport resized to 521x918, mode Windowed.
+[2023.07.06-10.59.46:108][287]LogViewport: Scene viewport resized to 520x918, mode Windowed.
+[2023.07.06-10.59.46:223][287]LogViewport: Scene viewport resized to 521x918, mode Windowed.
+[2023.07.06-10.59.46:268][287]LogViewport: Scene viewport resized to 533x918, mode Windowed.
+[2023.07.06-10.59.46:306][287]LogViewport: Scene viewport resized to 560x918, mode Windowed.
+[2023.07.06-10.59.46:345][287]LogViewport: Scene viewport resized to 578x918, mode Windowed.
+[2023.07.06-10.59.46:381][287]LogViewport: Scene viewport resized to 597x918, mode Windowed.
+[2023.07.06-10.59.46:418][287]LogViewport: Scene viewport resized to 620x918, mode Windowed.
+[2023.07.06-10.59.46:459][287]LogViewport: Scene viewport resized to 633x918, mode Windowed.
+[2023.07.06-10.59.46:501][287]LogViewport: Scene viewport resized to 645x918, mode Windowed.
+[2023.07.06-10.59.46:544][287]LogViewport: Scene viewport resized to 664x918, mode Windowed.
+[2023.07.06-10.59.46:582][287]LogViewport: Scene viewport resized to 676x918, mode Windowed.
+[2023.07.06-10.59.46:619][287]LogViewport: Scene viewport resized to 684x918, mode Windowed.
+[2023.07.06-10.59.46:661][287]LogViewport: Scene viewport resized to 689x918, mode Windowed.
+[2023.07.06-10.59.46:703][287]LogViewport: Scene viewport resized to 696x918, mode Windowed.
+[2023.07.06-10.59.46:741][287]LogViewport: Scene viewport resized to 704x918, mode Windowed.
+[2023.07.06-10.59.46:783][287]LogViewport: Scene viewport resized to 708x918, mode Windowed.
+[2023.07.06-10.59.46:831][287]LogViewport: Scene viewport resized to 714x918, mode Windowed.
+[2023.07.06-10.59.46:873][287]LogViewport: Scene viewport resized to 722x918, mode Windowed.
+[2023.07.06-10.59.46:918][287]LogViewport: Scene viewport resized to 723x918, mode Windowed.
+[2023.07.06-10.59.46:965][287]LogViewport: Scene viewport resized to 729x918, mode Windowed.
+[2023.07.06-10.59.47:006][287]LogViewport: Scene viewport resized to 732x918, mode Windowed.
+[2023.07.06-10.59.47:044][287]LogViewport: Scene viewport resized to 735x918, mode Windowed.
+[2023.07.06-10.59.47:093][287]LogViewport: Scene viewport resized to 741x918, mode Windowed.
+[2023.07.06-10.59.47:139][287]LogViewport: Scene viewport resized to 745x918, mode Windowed.
+[2023.07.06-10.59.47:184][287]LogViewport: Scene viewport resized to 747x918, mode Windowed.
+[2023.07.06-10.59.47:229][287]LogViewport: Scene viewport resized to 753x918, mode Windowed.
+[2023.07.06-10.59.47:278][287]LogViewport: Scene viewport resized to 757x918, mode Windowed.
+[2023.07.06-10.59.47:317][287]LogViewport: Scene viewport resized to 761x918, mode Windowed.
+[2023.07.06-10.59.47:362][287]LogViewport: Scene viewport resized to 764x918, mode Windowed.
+[2023.07.06-10.59.47:407][287]LogViewport: Scene viewport resized to 768x918, mode Windowed.
+[2023.07.06-10.59.47:444][287]LogViewport: Scene viewport resized to 771x918, mode Windowed.
+[2023.07.06-10.59.47:519][287]LogViewport: Scene viewport resized to 772x918, mode Windowed.
+[2023.07.06-10.59.47:568][287]LogViewport: Scene viewport resized to 776x918, mode Windowed.
+[2023.07.06-10.59.47:784][287]LogViewport: Scene viewport resized to 777x918, mode Windowed.
+[2023.07.06-10.59.47:826][287]LogViewport: Scene viewport resized to 779x918, mode Windowed.
+[2023.07.06-10.59.47:904][287]LogViewport: Scene viewport resized to 780x918, mode Windowed.
+[2023.07.06-10.59.47:955][287]LogViewport: Scene viewport resized to 781x918, mode Windowed.
+[2023.07.06-10.59.47:996][287]LogViewport: Scene viewport resized to 784x918, mode Windowed.
+[2023.07.06-10.59.48:039][287]LogViewport: Scene viewport resized to 787x918, mode Windowed.
+[2023.07.06-10.59.48:083][287]LogViewport: Scene viewport resized to 790x918, mode Windowed.
+[2023.07.06-10.59.48:130][287]LogViewport: Scene viewport resized to 799x918, mode Windowed.
+[2023.07.06-10.59.48:182][287]LogViewport: Scene viewport resized to 805x918, mode Windowed.
+[2023.07.06-10.59.48:236][287]LogViewport: Scene viewport resized to 811x918, mode Windowed.
+[2023.07.06-10.59.48:280][287]LogViewport: Scene viewport resized to 822x918, mode Windowed.
+[2023.07.06-10.59.48:326][287]LogViewport: Scene viewport resized to 828x918, mode Windowed.
+[2023.07.06-10.59.48:405][287]LogViewport: Scene viewport resized to 829x918, mode Windowed.
+[2023.07.06-10.59.48:452][287]LogViewport: Scene viewport resized to 835x918, mode Windowed.
+[2023.07.06-10.59.48:506][287]LogViewport: Scene viewport resized to 838x918, mode Windowed.
+[2023.07.06-10.59.48:588][287]LogViewport: Scene viewport resized to 841x918, mode Windowed.
+[2023.07.06-10.59.48:643][287]LogViewport: Scene viewport resized to 845x918, mode Windowed.
+[2023.07.06-10.59.48:757][287]LogViewport: Scene viewport resized to 848x918, mode Windowed.
+[2023.07.06-10.59.48:807][287]LogViewport: Scene viewport resized to 849x918, mode Windowed.
+[2023.07.06-10.59.48:864][287]LogViewport: Scene viewport resized to 850x918, mode Windowed.
+[2023.07.06-10.59.48:910][287]LogViewport: Scene viewport resized to 851x918, mode Windowed.
+[2023.07.06-10.59.48:966][287]LogViewport: Scene viewport resized to 859x918, mode Windowed.
+[2023.07.06-10.59.49:016][287]LogViewport: Scene viewport resized to 861x918, mode Windowed.
+[2023.07.06-10.59.53:662][431]LogViewport: Scene viewport resized to 855x918, mode Windowed.
+[2023.07.06-10.59.53:696][433]LogViewport: Scene viewport resized to 848x918, mode Windowed.
+[2023.07.06-10.59.53:728][435]LogViewport: Scene viewport resized to 845x918, mode Windowed.
+[2023.07.06-10.59.53:763][437]LogViewport: Scene viewport resized to 840x918, mode Windowed.
+[2023.07.06-10.59.53:796][439]LogViewport: Scene viewport resized to 833x918, mode Windowed.
+[2023.07.06-10.59.53:829][441]LogViewport: Scene viewport resized to 827x918, mode Windowed.
+[2023.07.06-10.59.53:863][443]LogViewport: Scene viewport resized to 817x918, mode Windowed.
+[2023.07.06-10.59.53:896][445]LogViewport: Scene viewport resized to 810x918, mode Windowed.
+[2023.07.06-10.59.53:929][447]LogViewport: Scene viewport resized to 786x918, mode Windowed.
+[2023.07.06-10.59.53:963][449]LogViewport: Scene viewport resized to 770x918, mode Windowed.
+[2023.07.06-10.59.53:996][451]LogViewport: Scene viewport resized to 751x918, mode Windowed.
+[2023.07.06-10.59.54:029][453]LogViewport: Scene viewport resized to 742x918, mode Windowed.
+[2023.07.06-10.59.54:063][455]LogViewport: Scene viewport resized to 723x918, mode Windowed.
+[2023.07.06-10.59.54:096][457]LogViewport: Scene viewport resized to 707x918, mode Windowed.
+[2023.07.06-10.59.54:129][459]LogViewport: Scene viewport resized to 704x918, mode Windowed.
+[2023.07.06-10.59.54:163][461]LogViewport: Scene viewport resized to 699x918, mode Windowed.
+[2023.07.06-10.59.54:196][463]LogViewport: Scene viewport resized to 689x918, mode Windowed.
+[2023.07.06-10.59.54:229][465]LogViewport: Scene viewport resized to 672x918, mode Windowed.
+[2023.07.06-10.59.54:263][467]LogViewport: Scene viewport resized to 663x918, mode Windowed.
+[2023.07.06-10.59.54:295][469]LogViewport: Scene viewport resized to 655x918, mode Windowed.
+[2023.07.06-10.59.54:329][471]LogViewport: Scene viewport resized to 647x918, mode Windowed.
+[2023.07.06-10.59.54:363][473]LogViewport: Scene viewport resized to 629x918, mode Windowed.
+[2023.07.06-10.59.54:396][475]LogViewport: Scene viewport resized to 621x918, mode Windowed.
+[2023.07.06-10.59.54:429][477]LogViewport: Scene viewport resized to 617x918, mode Windowed.
+[2023.07.06-10.59.54:462][479]LogViewport: Scene viewport resized to 615x918, mode Windowed.
+[2023.07.06-10.59.54:496][481]LogViewport: Scene viewport resized to 596x918, mode Windowed.
+[2023.07.06-10.59.54:529][483]LogViewport: Scene viewport resized to 576x918, mode Windowed.
+[2023.07.06-10.59.54:562][485]LogViewport: Scene viewport resized to 558x918, mode Windowed.
+[2023.07.06-10.59.54:597][487]LogViewport: Scene viewport resized to 545x918, mode Windowed.
+[2023.07.06-10.59.54:628][489]LogViewport: Scene viewport resized to 532x918, mode Windowed.
+[2023.07.06-10.59.54:663][491]LogViewport: Scene viewport resized to 518x918, mode Windowed.
+[2023.07.06-10.59.54:695][493]LogViewport: Scene viewport resized to 509x918, mode Windowed.
+[2023.07.06-10.59.54:728][495]LogViewport: Scene viewport resized to 503x918, mode Windowed.
+[2023.07.06-10.59.54:763][497]LogViewport: Scene viewport resized to 497x918, mode Windowed.
+[2023.07.06-10.59.54:829][501]LogViewport: Scene viewport resized to 494x918, mode Windowed.
+[2023.07.06-10.59.54:863][503]LogViewport: Scene viewport resized to 482x918, mode Windowed.
+[2023.07.06-10.59.54:896][505]LogViewport: Scene viewport resized to 478x918, mode Windowed.
+[2023.07.06-10.59.57:287][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.07.06-10.59.57:288][642]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.029
+[2023.07.06-11.03.41:608][ 68]BlueprintLog: New page: Compile BP_Torch
+[2023.07.06-11.03.41:661][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.07.06-11.03.43:040][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.07.06-11.03.44:070][146]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-11.03.44:084][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.03.44:190][146]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/torch/BP_Torch
+[2023.07.06-11.03.44:190][146]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_TorchB2A63E674A24FB31BA92B89AC82A3388.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/torch/BP_Torch.uasset'
+[2023.07.06-11.03.44:193][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889
+[2023.07.06-11.03.44:193][146]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FX6RHZN183V4HILBSPI8897AD5A3724AF55C50196557B2A8A39532.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889.uasset'
+[2023.07.06-11.03.44:214][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 1.50 sec)
+[2023.07.06-11.03.44:219][146]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-11.03.44:219][146]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch
+[2023.07.06-11.03.44:219][146]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-11.03.52:954][629]BlueprintLog: New page: Compile BP_Torch
+[2023.07.06-11.03.53:014][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.07.06-11.03.54:252][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.07.06-11.03.55:074][699]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-11.03.55:091][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.03.55:196][699]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/torch/BP_Torch
+[2023.07.06-11.03.55:197][699]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_TorchF1710E5047DC18E6016F98AF19B2ACFD.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/torch/BP_Torch.uasset'
+[2023.07.06-11.03.55:199][699]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889
+[2023.07.06-11.03.55:199][699]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FX6RHZN183V4HILBSPI8893A24B587497CCFC30098C78108BBE62C.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889.uasset'
+[2023.07.06-11.03.55:220][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 1.63 sec)
+[2023.07.06-11.03.55:225][699]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-11.03.55:225][699]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch
+[2023.07.06-11.03.55:225][699]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-11.04.03:199][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.07.06-11.04.04:238][131]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-11.04.04:252][131]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.04.04:345][131]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/torch/BP_Torch
+[2023.07.06-11.04.04:345][131]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_TorchDE62AD954E6AA9801F039E85B0BF645A.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/torch/BP_Torch.uasset'
+[2023.07.06-11.04.04:347][131]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889
+[2023.07.06-11.04.04:348][131]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FX6RHZN183V4HILBSPI889C121ADF24D04E6A72CC4309E289D276C.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889.uasset'
+[2023.07.06-11.04.04:366][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 1.75 sec)
+[2023.07.06-11.04.04:371][131]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-11.04.04:371][131]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch
+[2023.07.06-11.04.04:371][131]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-11.04.05:724][211]BlueprintLog: New page: Compile BP_Torch
+[2023.07.06-11.04.05:771][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.07.06-11.04.06:991][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.07.06-11.04.07:784][279]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-11.04.07:802][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.04.07:878][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889
+[2023.07.06-11.04.07:879][279]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FX6RHZN183V4HILBSPI8899B370A554FDEB46A3900C6BF7A171025.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889.uasset'
+[2023.07.06-11.04.07:899][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1.84 sec)
+[2023.07.06-11.04.07:904][279]AssetCheck: New page: Asset Save: BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-11.04.07:904][279]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-11.04.52:119][770]BlueprintLog: New page: Compile BP_Torch
+[2023.07.06-11.04.52:190][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.07.06-11.04.53:464][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.07.06-11.04.54:431][842]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-11.04.54:446][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.04.54:555][842]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/torch/BP_Torch
+[2023.07.06-11.04.54:555][842]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_TorchB4D6A05849B68334A27178A1A8DBD5CC.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/torch/BP_Torch.uasset'
+[2023.07.06-11.04.54:556][842]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889
+[2023.07.06-11.04.54:558][842]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FX6RHZN183V4HILBSPI889388E53DB42FF0DF6800353B4A2F5FA9D.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889.uasset'
+[2023.07.06-11.04.54:579][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 1.98 sec)
+[2023.07.06-11.04.54:583][842]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-11.04.54:583][842]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch
+[2023.07.06-11.04.54:583][842]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-11.05.51:914][  1]BlueprintLog: New page: Compile BP_Torch
+[2023.07.06-11.05.52:015][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.07.06-11.05.54:665][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.07.06-11.05.55:527][152]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-11.05.55:541][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.05.55:637][152]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/torch/BP_Torch
+[2023.07.06-11.05.55:637][152]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_Torch2BC6507C4DCD38B09BD4DBBD29BEDC1B.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/torch/BP_Torch.uasset'
+[2023.07.06-11.05.55:639][152]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889
+[2023.07.06-11.05.55:639][152]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FX6RHZN183V4HILBSPI889A80F2828470EF4117E847AA19F9ECA4F.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889.uasset'
+[2023.07.06-11.05.55:661][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 2.10 sec)
+[2023.07.06-11.05.55:666][152]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-11.05.55:666][152]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch
+[2023.07.06-11.05.55:666][152]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-11.06.38:825][434]LogSlate: Window 'Color Picker' being destroyed
+[2023.07.06-11.06.48:946][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.07.06-11.06.50:234][ 26]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-11.06.50:249][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.06.50:354][ 26]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/torch/BP_Torch
+[2023.07.06-11.06.50:354][ 26]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_Torch01E6E92145CB0DB97C9D5ABFD8D79B5C.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/torch/BP_Torch.uasset'
+[2023.07.06-11.06.50:357][ 26]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889
+[2023.07.06-11.06.50:357][ 26]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FX6RHZN183V4HILBSPI889680178894F7EEBABFAE021A6A659F767.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889.uasset'
+[2023.07.06-11.06.50:379][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 2.23 sec)
+[2023.07.06-11.06.50:384][ 26]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-11.06.50:385][ 26]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch
+[2023.07.06-11.06.50:385][ 26]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-11.06.50:901][ 57]BlueprintLog: New page: Compile BP_Torch
+[2023.07.06-11.06.50:949][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.07.06-11.06.51:994][117]LogViewport: Scene viewport resized to 872x925, mode Windowed.
+[2023.07.06-11.06.54:381][257]LogViewport: Scene viewport resized to 884x925, mode Windowed.
+[2023.07.06-11.06.54:415][259]LogViewport: Scene viewport resized to 930x925, mode Windowed.
+[2023.07.06-11.06.54:460][261]LogViewport: Scene viewport resized to 981x925, mode Windowed.
+[2023.07.06-11.06.54:504][263]LogViewport: Scene viewport resized to 1079x925, mode Windowed.
+[2023.07.06-11.06.54:540][265]LogViewport: Scene viewport resized to 1141x925, mode Windowed.
+[2023.07.06-11.06.54:573][267]LogViewport: Scene viewport resized to 1186x925, mode Windowed.
+[2023.07.06-11.06.54:606][269]LogViewport: Scene viewport resized to 1219x925, mode Windowed.
+[2023.07.06-11.06.54:639][271]LogViewport: Scene viewport resized to 1272x925, mode Windowed.
+[2023.07.06-11.06.54:673][273]LogViewport: Scene viewport resized to 1335x925, mode Windowed.
+[2023.07.06-11.06.54:705][275]LogViewport: Scene viewport resized to 1408x925, mode Windowed.
+[2023.07.06-11.06.54:743][277]LogViewport: Scene viewport resized to 1468x925, mode Windowed.
+[2023.07.06-11.06.54:779][279]LogViewport: Scene viewport resized to 1514x925, mode Windowed.
+[2023.07.06-11.06.54:813][281]LogViewport: Scene viewport resized to 1522x925, mode Windowed.
+[2023.07.06-11.06.54:845][283]LogViewport: Scene viewport resized to 1529x925, mode Windowed.
+[2023.07.06-11.06.54:879][285]LogViewport: Scene viewport resized to 1543x925, mode Windowed.
+[2023.07.06-11.06.54:911][287]LogViewport: Scene viewport resized to 1557x925, mode Windowed.
+[2023.07.06-11.06.54:930][288]LogViewport: Scene viewport resized to 1562x925, mode Windowed.
+[2023.07.06-11.06.54:962][290]LogViewport: Scene viewport resized to 1569x925, mode Windowed.
+[2023.07.06-11.06.54:995][292]LogViewport: Scene viewport resized to 1572x925, mode Windowed.
+[2023.07.06-11.06.55:029][294]LogViewport: Scene viewport resized to 1584x925, mode Windowed.
+[2023.07.06-11.06.55:065][296]LogViewport: Scene viewport resized to 1604x925, mode Windowed.
+[2023.07.06-11.06.55:101][298]LogViewport: Scene viewport resized to 1612x925, mode Windowed.
+[2023.07.06-11.06.55:134][300]LogViewport: Scene viewport resized to 1617x925, mode Windowed.
+[2023.07.06-11.06.55:168][302]LogViewport: Scene viewport resized to 1651x925, mode Windowed.
+[2023.07.06-11.06.55:200][304]LogViewport: Scene viewport resized to 1682x925, mode Windowed.
+[2023.07.06-11.06.55:234][306]LogViewport: Scene viewport resized to 1689x925, mode Windowed.
+[2023.07.06-11.06.56:521][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.07.06-11.06.57:571][379]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-11.06.57:585][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.06.57:663][379]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889
+[2023.07.06-11.06.57:663][379]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FX6RHZN183V4HILBSPI889B77F3E1D47775884494AA9B0A762A214.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889.uasset'
+[2023.07.06-11.06.57:686][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 2.33 sec)
+[2023.07.06-11.06.57:690][379]AssetCheck: New page: Asset Save: BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-11.06.57:690][379]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-11.07.38:099][782]BlueprintLog: New page: Compile BP_Torch
+[2023.07.06-11.07.38:144][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.07.06-11.07.39:490][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.07.06-11.07.40:521][859]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-11.07.40:537][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.07.40:626][859]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/torch/BP_Torch
+[2023.07.06-11.07.40:626][859]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_Torch9002EFF94D078F63BB7F6A94F26A1454.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/torch/BP_Torch.uasset'
+[2023.07.06-11.07.40:628][859]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889
+[2023.07.06-11.07.40:629][859]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FX6RHZN183V4HILBSPI88910CA906A431495E04D9BE287CEF8A850.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889.uasset'
+[2023.07.06-11.07.40:655][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 2.45 sec)
+[2023.07.06-11.07.40:659][859]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-11.07.40:659][859]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch
+[2023.07.06-11.07.40:659][859]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-11.07.44:665][ 98]LogViewport: Scene viewport resized to 1920x721, mode Windowed.
+[2023.07.06-11.08.00:799][ 41]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C
+[2023.07.06-11.08.00:799][ 41]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C
+[2023.07.06-11.08.00:800][ 41]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_1
+[2023.07.06-11.08.00:802][ 41]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_1
+[2023.07.06-11.08.02:361][128]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C
+[2023.07.06-11.08.02:361][128]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C
+[2023.07.06-11.08.02:365][128]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1926124202
+[2023.07.06-11.08.02:366][128]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1926124202
+[2023.07.06-11.08.32:701][895]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.06-11.08.32:706][895]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.07.06-11.08.32:707][895]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.06-11.08.32:707][895]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.06-11.08.32:707][895]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 152 us)
+[2023.07.06-11.08.32:707][895]LogWorldPartition: Display: GenerateStreaming took 227 us (total: 1 ms)
+[2023.07.06-11.08.32:709][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.06-11.08.32:709][895]PIE: New page: PIE session: ThirdPersonMap (6 lip 2023, 15:08:32)
+[2023.07.06-11.08.32:709][895]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.06-11.08.32:713][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003627s)
+[2023.07.06-11.08.32:713][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003665s)
+[2023.07.06-11.08.32:713][895]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.06-11.08.32:714][895]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.07.06-11.08.32:714][895]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.07.06-11.08.32:714][895]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.06-11.08.32:714][895]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.06-11.08.32:715][895]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.07.06-11.08.32:715][895]LogWorldPartition: Display: WorldPartition initialize took 768 us (total: 404 ms)
+[2023.07.06-11.08.32:715][895]LogPlayLevel: PIE: World Init took: (0.001697s)
+[2023.07.06-11.08.32:744][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.07.06-11.08.32:745][895]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.07.06-11.08.32:745][895]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.06-11.08.32:745][895]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.06-11.08.32:745][895]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.06-11.08.32:745][895]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.06-11.08.32:745][895]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.06-11.08.32:745][895]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.06-11.08.32:745][895]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.06-11.08.32:745][895]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.06-11.08.32:746][895]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.06-11.08.32:746][895]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.06-11.08.32:746][895]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.06-11.08.32:748][895]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.06-11.08.32:785][895]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Realtek(R) Audio)
+[2023.07.06-11.08.32:786][895]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.06-11.08.32:786][895]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.06-11.08.32:786][895]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.06-11.08.32:786][895]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.07.06-11.08.32:786][895]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.07.06-11.08.32:788][895]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.07.06-11.08.32:788][895]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.07.06-11.08.32:788][895]LogInit: FAudioDevice initialized.
+[2023.07.06-11.08.32:788][895]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2023.07.06-11.08.32:791][895]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.06-11.08.32:793][895]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.07.06-13.08.32
+[2023.07.06-11.08.32:793][895]LogWorld: Bringing up level for play took: 0.002403
+[2023.07.06-11.08.32:795][895]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.07.06-11.08.32:799][895]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=320.000 Y=-1050.000 Z=31.201
+[2023.07.06-11.08.32:800][895]PIE: Server logged in
+[2023.07.06-11.08.32:801][895]PIE: Play in editor total start time 0,095 seconds.
+[2023.07.06-11.08.52:620][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.06-11.08.52:620][ 69]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.06-11.08.52:620][ 69]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.06-11.08.52:620][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-11.08.52:620][ 69]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.07.06-11.08.52:625][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.06-11.08.52:629][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-11.08.52:658][ 69]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.06-11.08.52:659][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.07.06-11.08.52:660][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.07.06-11.08.52:666][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.06-11.08.52:668][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.07.06-11.08.52:697][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.07.06-11.08.54:921][182]LogViewport: Scene viewport resized to 1689x923, mode Windowed.
+[2023.07.06-11.08.58:871][414]LogViewport: Scene viewport resized to 829x915, mode Windowed.
+[2023.07.06-11.09.01:659][435]LogViewport: Scene viewport resized to 946x716, mode Windowed.
+[2023.07.06-11.09.03:568][510]LogViewport: Scene viewport resized to 828x915, mode Windowed.
+[2023.07.06-11.09.03:604][510]LogViewport: Scene viewport resized to 817x915, mode Windowed.
+[2023.07.06-11.09.03:642][510]LogViewport: Scene viewport resized to 805x915, mode Windowed.
+[2023.07.06-11.09.03:676][510]LogViewport: Scene viewport resized to 801x915, mode Windowed.
+[2023.07.06-11.09.03:712][510]LogViewport: Scene viewport resized to 792x915, mode Windowed.
+[2023.07.06-11.09.03:748][510]LogViewport: Scene viewport resized to 781x915, mode Windowed.
+[2023.07.06-11.09.03:780][510]LogViewport: Scene viewport resized to 776x915, mode Windowed.
+[2023.07.06-11.09.03:816][510]LogViewport: Scene viewport resized to 775x915, mode Windowed.
+[2023.07.06-11.09.03:848][510]LogViewport: Scene viewport resized to 765x915, mode Windowed.
+[2023.07.06-11.09.03:884][510]LogViewport: Scene viewport resized to 751x915, mode Windowed.
+[2023.07.06-11.09.03:920][510]LogViewport: Scene viewport resized to 743x915, mode Windowed.
+[2023.07.06-11.09.03:955][510]LogViewport: Scene viewport resized to 741x915, mode Windowed.
+[2023.07.06-11.09.03:986][510]LogViewport: Scene viewport resized to 733x915, mode Windowed.
+[2023.07.06-11.09.04:022][510]LogViewport: Scene viewport resized to 709x915, mode Windowed.
+[2023.07.06-11.09.04:053][510]LogViewport: Scene viewport resized to 681x915, mode Windowed.
+[2023.07.06-11.09.04:089][510]LogViewport: Scene viewport resized to 675x915, mode Windowed.
+[2023.07.06-11.09.04:125][510]LogViewport: Scene viewport resized to 666x915, mode Windowed.
+[2023.07.06-11.09.04:155][510]LogViewport: Scene viewport resized to 652x915, mode Windowed.
+[2023.07.06-11.09.04:186][510]LogViewport: Scene viewport resized to 647x915, mode Windowed.
+[2023.07.06-11.09.04:354][510]LogViewport: Scene viewport resized to 646x915, mode Windowed.
+[2023.07.06-11.09.04:411][510]LogViewport: Scene viewport resized to 645x915, mode Windowed.
+[2023.07.06-11.09.04:535][510]LogViewport: Scene viewport resized to 644x915, mode Windowed.
+[2023.07.06-11.09.04:574][510]LogViewport: Scene viewport resized to 643x915, mode Windowed.
+[2023.07.06-11.09.04:610][510]LogViewport: Scene viewport resized to 637x915, mode Windowed.
+[2023.07.06-11.09.04:646][510]LogViewport: Scene viewport resized to 634x915, mode Windowed.
+[2023.07.06-11.09.04:955][511]LogViewport: Scene viewport resized to 1167x716, mode Windowed.
+[2023.07.06-11.09.06:423][592]LogViewport: Scene viewport resized to 617x915, mode Windowed.
+[2023.07.06-11.09.06:457][594]LogViewport: Scene viewport resized to 558x915, mode Windowed.
+[2023.07.06-11.09.06:489][596]LogViewport: Scene viewport resized to 528x915, mode Windowed.
+[2023.07.06-11.09.06:523][598]LogViewport: Scene viewport resized to 508x915, mode Windowed.
+[2023.07.06-11.09.06:556][600]LogViewport: Scene viewport resized to 480x915, mode Windowed.
+[2023.07.06-11.09.06:590][602]LogViewport: Scene viewport resized to 437x915, mode Windowed.
+[2023.07.06-11.09.06:623][604]LogViewport: Scene viewport resized to 393x915, mode Windowed.
+[2023.07.06-11.09.06:657][606]LogViewport: Scene viewport resized to 352x915, mode Windowed.
+[2023.07.06-11.09.06:689][608]LogViewport: Scene viewport resized to 301x915, mode Windowed.
+[2023.07.06-11.09.06:723][610]LogViewport: Scene viewport resized to 282x915, mode Windowed.
+[2023.07.06-11.09.06:756][612]LogViewport: Scene viewport resized to 275x915, mode Windowed.
+[2023.07.06-11.09.06:790][614]LogViewport: Scene viewport resized to 262x915, mode Windowed.
+[2023.07.06-11.09.06:823][616]LogViewport: Scene viewport resized to 233x915, mode Windowed.
+[2023.07.06-11.09.06:856][618]LogViewport: Scene viewport resized to 228x915, mode Windowed.
+[2023.07.06-11.09.06:889][620]LogViewport: Scene viewport resized to 227x915, mode Windowed.
+[2023.07.06-11.09.06:939][623]LogViewport: Scene viewport resized to 225x915, mode Windowed.
+[2023.07.06-11.09.32:036][998]LogEditorTransaction: Undo Edit Source Radius
+[2023.07.06-11.09.32:606][ 17]Cmd: TRANSACTION UNDO
+[2023.07.06-11.09.32:606][ 17]LogEditorTransaction: Undo Edit Source Radius
+[2023.07.06-11.09.34:918][153]Cmd: TRANSACTION UNDO
+[2023.07.06-11.09.34:918][153]LogEditorTransaction: Undo Move Elements
+[2023.07.06-11.09.36:303][234]Cmd: TRANSACTION UNDO
+[2023.07.06-11.09.36:303][234]LogEditorTransaction: Undo Move Elements
+[2023.07.06-11.09.38:006][323]Cmd: TRANSACTION REDO
+[2023.07.06-11.09.38:006][323]LogEditorTransaction: Redo Move Elements
+[2023.07.06-11.09.38:466][349]Cmd: TRANSACTION REDO
+[2023.07.06-11.09.38:466][349]LogEditorTransaction: Redo Move Elements
+[2023.07.06-11.09.42:088][563]BlueprintLog: New page: Compile BP_Torch
+[2023.07.06-11.09.42:155][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.07.06-11.09.44:076][672]LogViewport: Scene viewport resized to 600x923, mode Windowed.
+[2023.07.06-11.09.45:948][781]LogViewport: Scene viewport resized to 608x923, mode Windowed.
+[2023.07.06-11.09.45:982][783]LogViewport: Scene viewport resized to 618x923, mode Windowed.
+[2023.07.06-11.09.46:015][785]LogViewport: Scene viewport resized to 655x923, mode Windowed.
+[2023.07.06-11.09.46:049][787]LogViewport: Scene viewport resized to 706x923, mode Windowed.
+[2023.07.06-11.09.46:066][788]LogViewport: Scene viewport resized to 735x923, mode Windowed.
+[2023.07.06-11.09.46:098][790]LogViewport: Scene viewport resized to 773x923, mode Windowed.
+[2023.07.06-11.09.46:132][792]LogViewport: Scene viewport resized to 788x923, mode Windowed.
+[2023.07.06-11.09.46:166][794]LogViewport: Scene viewport resized to 823x923, mode Windowed.
+[2023.07.06-11.09.46:200][796]LogViewport: Scene viewport resized to 874x923, mode Windowed.
+[2023.07.06-11.09.46:231][798]LogViewport: Scene viewport resized to 922x923, mode Windowed.
+[2023.07.06-11.09.46:265][800]LogViewport: Scene viewport resized to 977x923, mode Windowed.
+[2023.07.06-11.09.46:298][802]LogViewport: Scene viewport resized to 1012x923, mode Windowed.
+[2023.07.06-11.09.46:332][804]LogViewport: Scene viewport resized to 1062x923, mode Windowed.
+[2023.07.06-11.09.46:365][806]LogViewport: Scene viewport resized to 1080x923, mode Windowed.
+[2023.07.06-11.09.46:397][808]LogViewport: Scene viewport resized to 1109x923, mode Windowed.
+[2023.07.06-11.09.46:431][810]LogViewport: Scene viewport resized to 1132x923, mode Windowed.
+[2023.07.06-11.09.46:464][812]LogViewport: Scene viewport resized to 1166x923, mode Windowed.
+[2023.07.06-11.09.46:499][814]LogViewport: Scene viewport resized to 1205x923, mode Windowed.
+[2023.07.06-11.09.46:532][816]LogViewport: Scene viewport resized to 1230x923, mode Windowed.
+[2023.07.06-11.09.46:565][818]LogViewport: Scene viewport resized to 1245x923, mode Windowed.
+[2023.07.06-11.09.46:598][820]LogViewport: Scene viewport resized to 1264x923, mode Windowed.
+[2023.07.06-11.09.46:631][822]LogViewport: Scene viewport resized to 1278x923, mode Windowed.
+[2023.07.06-11.09.46:665][824]LogViewport: Scene viewport resized to 1283x923, mode Windowed.
+[2023.07.06-11.09.46:699][826]LogViewport: Scene viewport resized to 1287x923, mode Windowed.
+[2023.07.06-11.09.46:748][829]LogViewport: Scene viewport resized to 1294x923, mode Windowed.
+[2023.07.06-11.09.46:783][831]LogViewport: Scene viewport resized to 1297x923, mode Windowed.
+[2023.07.06-11.09.46:814][833]LogViewport: Scene viewport resized to 1299x923, mode Windowed.
+[2023.07.06-11.09.46:881][837]LogViewport: Scene viewport resized to 1306x923, mode Windowed.
+[2023.07.06-11.09.46:915][839]LogViewport: Scene viewport resized to 1311x923, mode Windowed.
+[2023.07.06-11.09.46:949][841]LogViewport: Scene viewport resized to 1317x923, mode Windowed.
+[2023.07.06-11.09.46:982][843]LogViewport: Scene viewport resized to 1321x923, mode Windowed.
+[2023.07.06-11.09.47:016][845]LogViewport: Scene viewport resized to 1326x923, mode Windowed.
+[2023.07.06-11.09.47:048][847]LogViewport: Scene viewport resized to 1332x923, mode Windowed.
+[2023.07.06-11.09.47:081][849]LogViewport: Scene viewport resized to 1336x923, mode Windowed.
+[2023.07.06-11.09.47:100][850]LogViewport: Scene viewport resized to 1339x923, mode Windowed.
+[2023.07.06-11.09.47:131][852]LogViewport: Scene viewport resized to 1345x923, mode Windowed.
+[2023.07.06-11.09.47:464][872]LogViewport: Scene viewport resized to 1340x923, mode Windowed.
+[2023.07.06-11.09.47:499][874]LogViewport: Scene viewport resized to 1324x923, mode Windowed.
+[2023.07.06-11.09.47:532][876]LogViewport: Scene viewport resized to 1315x923, mode Windowed.
+[2023.07.06-11.09.47:631][882]LogViewport: Scene viewport resized to 1313x923, mode Windowed.
+[2023.07.06-11.09.47:665][884]LogViewport: Scene viewport resized to 1307x923, mode Windowed.
+[2023.07.06-11.09.47:698][886]LogViewport: Scene viewport resized to 1292x923, mode Windowed.
+[2023.07.06-11.09.47:733][888]LogViewport: Scene viewport resized to 1274x923, mode Windowed.
+[2023.07.06-11.09.47:766][890]LogViewport: Scene viewport resized to 1225x923, mode Windowed.
+[2023.07.06-11.09.47:799][892]LogViewport: Scene viewport resized to 1196x923, mode Windowed.
+[2023.07.06-11.09.47:832][894]LogViewport: Scene viewport resized to 1186x923, mode Windowed.
+[2023.07.06-11.09.47:865][896]LogViewport: Scene viewport resized to 1176x923, mode Windowed.
+[2023.07.06-11.09.47:898][898]LogViewport: Scene viewport resized to 1153x923, mode Windowed.
+[2023.07.06-11.09.47:931][900]LogViewport: Scene viewport resized to 1127x923, mode Windowed.
+[2023.07.06-11.09.47:965][902]LogViewport: Scene viewport resized to 1111x923, mode Windowed.
+[2023.07.06-11.09.47:999][904]LogViewport: Scene viewport resized to 1095x923, mode Windowed.
+[2023.07.06-11.09.48:033][906]LogViewport: Scene viewport resized to 1077x923, mode Windowed.
+[2023.07.06-11.09.48:065][908]LogViewport: Scene viewport resized to 1061x923, mode Windowed.
+[2023.07.06-11.09.48:098][910]LogViewport: Scene viewport resized to 1047x923, mode Windowed.
+[2023.07.06-11.09.48:132][912]LogViewport: Scene viewport resized to 1021x923, mode Windowed.
+[2023.07.06-11.09.48:165][914]LogViewport: Scene viewport resized to 993x923, mode Windowed.
+[2023.07.06-11.09.48:198][916]LogViewport: Scene viewport resized to 935x923, mode Windowed.
+[2023.07.06-11.09.48:233][918]LogViewport: Scene viewport resized to 884x923, mode Windowed.
+[2023.07.06-11.09.48:265][920]LogViewport: Scene viewport resized to 836x923, mode Windowed.
+[2023.07.06-11.09.48:298][922]LogViewport: Scene viewport resized to 808x923, mode Windowed.
+[2023.07.06-11.09.48:332][924]LogViewport: Scene viewport resized to 797x923, mode Windowed.
+[2023.07.06-11.09.48:365][926]LogViewport: Scene viewport resized to 794x923, mode Windowed.
+[2023.07.06-11.09.48:399][928]LogViewport: Scene viewport resized to 792x923, mode Windowed.
+[2023.07.06-11.09.48:432][930]LogViewport: Scene viewport resized to 786x923, mode Windowed.
+[2023.07.06-11.09.48:464][932]LogViewport: Scene viewport resized to 780x923, mode Windowed.
+[2023.07.06-11.09.48:498][934]LogViewport: Scene viewport resized to 771x923, mode Windowed.
+[2023.07.06-11.09.48:532][936]LogViewport: Scene viewport resized to 756x923, mode Windowed.
+[2023.07.06-11.09.48:565][938]LogViewport: Scene viewport resized to 738x923, mode Windowed.
+[2023.07.06-11.09.48:599][940]LogViewport: Scene viewport resized to 729x923, mode Windowed.
+[2023.07.06-11.09.48:632][942]LogViewport: Scene viewport resized to 721x923, mode Windowed.
+[2023.07.06-11.09.48:666][944]LogViewport: Scene viewport resized to 716x923, mode Windowed.
+[2023.07.06-11.09.48:698][946]LogViewport: Scene viewport resized to 706x923, mode Windowed.
+[2023.07.06-11.09.48:732][948]LogViewport: Scene viewport resized to 680x923, mode Windowed.
+[2023.07.06-11.09.48:765][950]LogViewport: Scene viewport resized to 649x923, mode Windowed.
+[2023.07.06-11.09.48:798][952]LogViewport: Scene viewport resized to 632x923, mode Windowed.
+[2023.07.06-11.09.48:816][953]LogViewport: Scene viewport resized to 629x923, mode Windowed.
+[2023.07.06-11.09.48:849][955]LogViewport: Scene viewport resized to 625x923, mode Windowed.
+[2023.07.06-11.09.48:932][960]LogViewport: Scene viewport resized to 623x923, mode Windowed.
+[2023.07.06-11.09.48:983][963]LogViewport: Scene viewport resized to 621x923, mode Windowed.
+[2023.07.06-11.09.49:048][967]LogViewport: Scene viewport resized to 620x923, mode Windowed.
+[2023.07.06-11.09.49:604][  0]LogViewport: Scene viewport resized to 233x915, mode Windowed.
+[2023.07.06-11.09.55:774][366]LogViewport: Scene viewport resized to 238x915, mode Windowed.
+[2023.07.06-11.09.55:806][368]LogViewport: Scene viewport resized to 249x915, mode Windowed.
+[2023.07.06-11.09.55:824][369]LogViewport: Scene viewport resized to 258x915, mode Windowed.
+[2023.07.06-11.09.55:856][371]LogViewport: Scene viewport resized to 271x915, mode Windowed.
+[2023.07.06-11.09.55:889][373]LogViewport: Scene viewport resized to 289x915, mode Windowed.
+[2023.07.06-11.09.55:924][375]LogViewport: Scene viewport resized to 351x915, mode Windowed.
+[2023.07.06-11.09.55:955][377]LogViewport: Scene viewport resized to 418x915, mode Windowed.
+[2023.07.06-11.09.55:990][379]LogViewport: Scene viewport resized to 426x915, mode Windowed.
+[2023.07.06-11.09.56:022][381]LogViewport: Scene viewport resized to 433x915, mode Windowed.
+[2023.07.06-11.09.56:056][383]LogViewport: Scene viewport resized to 441x915, mode Windowed.
+[2023.07.06-11.09.56:105][386]LogViewport: Scene viewport resized to 442x915, mode Windowed.
+[2023.07.06-11.09.56:140][388]LogViewport: Scene viewport resized to 448x915, mode Windowed.
+[2023.07.06-11.09.58:564][533]LogViewport: Scene viewport resized to 442x915, mode Windowed.
+[2023.07.06-11.09.58:598][535]LogViewport: Scene viewport resized to 422x915, mode Windowed.
+[2023.07.06-11.09.58:631][537]LogViewport: Scene viewport resized to 391x915, mode Windowed.
+[2023.07.06-11.09.58:664][539]LogViewport: Scene viewport resized to 376x915, mode Windowed.
+[2023.07.06-11.09.58:696][541]LogViewport: Scene viewport resized to 363x915, mode Windowed.
+[2023.07.06-11.09.58:731][543]LogViewport: Scene viewport resized to 337x915, mode Windowed.
+[2023.07.06-11.09.58:764][545]LogViewport: Scene viewport resized to 302x915, mode Windowed.
+[2023.07.06-11.09.58:781][546]LogViewport: Scene viewport resized to 288x915, mode Windowed.
+[2023.07.06-11.09.58:814][548]LogViewport: Scene viewport resized to 273x915, mode Windowed.
+[2023.07.06-11.09.58:847][550]LogViewport: Scene viewport resized to 270x915, mode Windowed.
+[2023.07.06-11.09.58:881][552]LogViewport: Scene viewport resized to 252x915, mode Windowed.
+[2023.07.06-11.09.58:915][554]LogViewport: Scene viewport resized to 231x915, mode Windowed.
+[2023.07.06-11.09.58:947][556]LogViewport: Scene viewport resized to 218x915, mode Windowed.
+[2023.07.06-11.09.58:980][558]LogViewport: Scene viewport resized to 210x915, mode Windowed.
+[2023.07.06-11.09.59:014][560]LogViewport: Scene viewport resized to 206x915, mode Windowed.
+[2023.07.06-11.09.59:030][561]LogViewport: Scene viewport resized to 204x915, mode Windowed.
+[2023.07.06-11.09.59:064][563]LogViewport: Scene viewport resized to 203x915, mode Windowed.
+[2023.07.06-11.09.59:146][568]LogViewport: Scene viewport resized to 199x915, mode Windowed.
+[2023.07.06-11.09.59:181][570]LogViewport: Scene viewport resized to 192x915, mode Windowed.
+[2023.07.06-11.09.59:214][572]LogViewport: Scene viewport resized to 184x915, mode Windowed.
+[2023.07.06-11.09.59:247][574]LogViewport: Scene viewport resized to 178x915, mode Windowed.
+[2023.07.06-11.09.59:281][576]LogViewport: Scene viewport resized to 174x915, mode Windowed.
+[2023.07.06-11.10.05:129][889]LogEditorTransaction: Undo Edit Source Radius
+[2023.07.06-11.10.10:316][134]LogEditorTransaction: Undo Edit Soft Source Radius
+[2023.07.06-11.10.12:325][240]Cmd: TRANSACTION UNDO
+[2023.07.06-11.10.12:325][240]LogEditorTransaction: Undo Move Elements
+[2023.07.06-11.10.13:550][312]Cmd: TRANSACTION REDO
+[2023.07.06-11.10.13:550][312]LogEditorTransaction: Redo Move Elements
+[2023.07.06-11.10.52:020][523]LogEditorTransaction: Undo Edit Indirect Lighting Intensity
+[2023.07.06-11.10.54:388][632]LogEditorTransaction: Undo Edit Volumetric Scattering Intensity
+[2023.07.06-11.11.45:634][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.07.06-11.11.45:638][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889_Auto1
+[2023.07.06-11.11.45:638][674]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FX6RHZN183V4HILBSPI889_Auto1CA09816C4FB5F9031486CB923893E2C4.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889_Auto1.uasset'
+[2023.07.06-11.11.45:639][674]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.042
+[2023.07.06-11.11.45:639][674]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2023.07.06-11.11.45:639][674]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Maps/torch/BP_Torch] ([2] browsable assets)...
+[2023.07.06-11.11.45:650][674]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch]
+[2023.07.06-11.11.45:650][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/torch/BP_Torch]
+[2023.07.06-11.11.45:653][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/torch/BP_Torch_Auto1
+[2023.07.06-11.11.45:653][674]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_Torch_Auto1C6B5CCD948987FD86D64C4A4B4AFC805.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/Autosaves/Game/ThirdPerson/Maps/torch/BP_Torch_Auto1.uasset'
+[2023.07.06-11.11.45:654][674]LogFileHelpers: Auto-saving content packages took 0.015
+[2023.07.06-11.13.40:550][469]LogSlate: Window 'Color Picker' being destroyed
+[2023.07.06-11.14.00:131][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.07.06-11.14.01:624][549]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-11.14.01:636][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.14.01:748][549]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/torch/BP_Torch
+[2023.07.06-11.14.01:748][549]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_Torch031FE0B6454A2370DAE5ACA3CD35EC01.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/torch/BP_Torch.uasset'
+[2023.07.06-11.14.01:750][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889
+[2023.07.06-11.14.01:751][549]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FX6RHZN183V4HILBSPI889DA64DEAE4EE2C471FA66608D09B6F445.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889.uasset'
+[2023.07.06-11.14.01:753][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/BK/Y43WDP1LXAX99KJKIDV3JF
+[2023.07.06-11.14.01:753][549]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/Y43WDP1LXAX99KJKIDV3JFC9D7C701454B5957DDE3619A4B6FA98F.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/BK/Y43WDP1LXAX99KJKIDV3JF.uasset'
+[2023.07.06-11.14.01:764][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 2.57 sec)
+[2023.07.06-11.14.01:769][549]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-11.14.01:769][549]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch
+[2023.07.06-11.14.01:769][549]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1926124202
+[2023.07.06-11.14.01:769][549]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-11.14.09:715][986]LogViewport: Scene viewport resized to 1920x721, mode Windowed.
+[2023.07.06-11.14.12:819][155]BlueprintLog: New page: Compile BP_Torch
+[2023.07.06-11.14.12:868][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.07.06-11.14.14:574][252]LogViewport: Scene viewport resized to 464x923, mode Windowed.
+[2023.07.06-11.14.16:893][385]LogViewport: Scene viewport resized to 469x923, mode Windowed.
+[2023.07.06-11.14.16:926][387]LogViewport: Scene viewport resized to 486x923, mode Windowed.
+[2023.07.06-11.14.16:960][389]LogViewport: Scene viewport resized to 521x923, mode Windowed.
+[2023.07.06-11.14.16:994][391]LogViewport: Scene viewport resized to 597x923, mode Windowed.
+[2023.07.06-11.14.17:026][393]LogViewport: Scene viewport resized to 661x923, mode Windowed.
+[2023.07.06-11.14.17:060][395]LogViewport: Scene viewport resized to 688x923, mode Windowed.
+[2023.07.06-11.14.17:093][397]LogViewport: Scene viewport resized to 721x923, mode Windowed.
+[2023.07.06-11.14.17:128][399]LogViewport: Scene viewport resized to 768x923, mode Windowed.
+[2023.07.06-11.14.17:162][401]LogViewport: Scene viewport resized to 855x923, mode Windowed.
+[2023.07.06-11.14.17:195][403]LogViewport: Scene viewport resized to 926x923, mode Windowed.
+[2023.07.06-11.14.17:229][405]LogViewport: Scene viewport resized to 996x923, mode Windowed.
+[2023.07.06-11.14.17:262][407]LogViewport: Scene viewport resized to 1064x923, mode Windowed.
+[2023.07.06-11.14.17:294][409]LogViewport: Scene viewport resized to 1130x923, mode Windowed.
+[2023.07.06-11.14.17:329][411]LogViewport: Scene viewport resized to 1194x923, mode Windowed.
+[2023.07.06-11.14.17:362][413]LogViewport: Scene viewport resized to 1236x923, mode Windowed.
+[2023.07.06-11.14.17:395][415]LogViewport: Scene viewport resized to 1282x923, mode Windowed.
+[2023.07.06-11.14.17:429][417]LogViewport: Scene viewport resized to 1327x923, mode Windowed.
+[2023.07.06-11.14.17:461][419]LogViewport: Scene viewport resized to 1351x923, mode Windowed.
+[2023.07.06-11.14.17:512][422]LogViewport: Scene viewport resized to 1354x923, mode Windowed.
+[2023.07.06-11.14.17:546][424]LogViewport: Scene viewport resized to 1365x923, mode Windowed.
+[2023.07.06-11.14.17:578][426]LogViewport: Scene viewport resized to 1376x923, mode Windowed.
+[2023.07.06-11.14.17:612][428]LogViewport: Scene viewport resized to 1383x923, mode Windowed.
+[2023.07.06-11.14.17:645][430]LogViewport: Scene viewport resized to 1401x923, mode Windowed.
+[2023.07.06-11.14.17:679][432]LogViewport: Scene viewport resized to 1444x923, mode Windowed.
+[2023.07.06-11.14.17:712][434]LogViewport: Scene viewport resized to 1476x923, mode Windowed.
+[2023.07.06-11.14.17:745][436]LogViewport: Scene viewport resized to 1501x923, mode Windowed.
+[2023.07.06-11.14.17:778][438]LogViewport: Scene viewport resized to 1527x923, mode Windowed.
+[2023.07.06-11.14.17:813][440]LogViewport: Scene viewport resized to 1549x923, mode Windowed.
+[2023.07.06-11.14.17:846][442]LogViewport: Scene viewport resized to 1575x923, mode Windowed.
+[2023.07.06-11.14.17:879][444]LogViewport: Scene viewport resized to 1600x923, mode Windowed.
+[2023.07.06-11.14.17:913][446]LogViewport: Scene viewport resized to 1609x923, mode Windowed.
+[2023.07.06-11.14.17:947][448]LogViewport: Scene viewport resized to 1621x923, mode Windowed.
+[2023.07.06-11.14.17:980][450]LogViewport: Scene viewport resized to 1625x923, mode Windowed.
+[2023.07.06-11.14.18:046][454]LogViewport: Scene viewport resized to 1629x923, mode Windowed.
+[2023.07.06-11.14.18:080][456]LogViewport: Scene viewport resized to 1633x923, mode Windowed.
+[2023.07.06-11.14.18:112][458]LogViewport: Scene viewport resized to 1634x923, mode Windowed.
+[2023.07.06-11.14.18:146][460]LogViewport: Scene viewport resized to 1638x923, mode Windowed.
+[2023.07.06-11.14.18:179][462]LogViewport: Scene viewport resized to 1643x923, mode Windowed.
+[2023.07.06-11.14.19:792][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.07.06-11.14.20:622][553]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-11.14.20:636][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.14.20:715][553]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889
+[2023.07.06-11.14.20:715][553]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FX6RHZN183V4HILBSPI889C8BB56AE43BA82A3A87EAC99581D55E8.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889.uasset'
+[2023.07.06-11.14.20:718][553]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/BK/Y43WDP1LXAX99KJKIDV3JF
+[2023.07.06-11.14.20:718][553]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/Y43WDP1LXAX99KJKIDV3JF72598DBC4967F8BA48896AAD42042D55.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/BK/Y43WDP1LXAX99KJKIDV3JF.uasset'
+[2023.07.06-11.14.20:740][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 2.68 sec)
+[2023.07.06-11.14.20:744][553]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-11.14.20:744][553]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1926124202
+[2023.07.06-11.14.20:744][553]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-11.14.22:003][628]LogSlate: Window 'BP_Torch' being destroyed
+[2023.07.06-11.14.22:008][628]LogSlate: Window 'BP_Torch' being destroyed
+[2023.07.06-11.14.22:014][628]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.07.06-11.14.22:014][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-11.15.15:134][732]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C
+[2023.07.06-11.15.15:134][732]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C
+[2023.07.06-11.15.15:135][732]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_2
+[2023.07.06-11.15.15:136][732]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_2
+[2023.07.06-11.15.16:725][820]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C
+[2023.07.06-11.15.16:725][820]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C
+[2023.07.06-11.15.16:729][820]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622229301_1286745379
+[2023.07.06-11.15.16:731][820]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622229301_1286745379
+[2023.07.06-11.15.37:197][967]Cmd: DUPLICATE
+[2023.07.06-11.15.37:197][967]Cmd: ACTOR DUPLICATE
+[2023.07.06-11.15.45:829][448]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C
+[2023.07.06-11.15.45:829][448]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C
+[2023.07.06-11.15.45:831][448]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_3
+[2023.07.06-11.15.45:832][448]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_3
+[2023.07.06-11.15.47:069][514]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C
+[2023.07.06-11.15.47:070][514]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C
+[2023.07.06-11.15.47:073][514]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622229301_1317091381
+[2023.07.06-11.15.47:074][514]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622229301_1317091381
+[2023.07.06-11.16.10:895][895]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C
+[2023.07.06-11.16.10:895][895]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C
+[2023.07.06-11.16.10:896][895]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_4
+[2023.07.06-11.16.10:897][895]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_4
+[2023.07.06-11.16.12:052][957]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C
+[2023.07.06-11.16.12:052][957]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C
+[2023.07.06-11.16.12:055][957]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622229301_1342073382
+[2023.07.06-11.16.12:056][957]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622229301_1342073382
+[2023.07.06-11.16.34:839][241]Cmd: DUPLICATE
+[2023.07.06-11.16.34:839][241]Cmd: ACTOR DUPLICATE
+[2023.07.06-11.16.48:752][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.07.06-11.16.49:729][  7]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-11.16.49:746][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.16.49:822][  7]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/OW/3XNGBTZAO3KCOCB43X1DSY
+[2023.07.06-11.16.49:822][  7]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/3XNGBTZAO3KCOCB43X1DSY7B809A8148CE381C8CFB75A91CC2864A.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/OW/3XNGBTZAO3KCOCB43X1DSY.uasset'
+[2023.07.06-11.16.49:826][  7]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/8R/I0S7DLLYP4OIF82A5AIGRP
+[2023.07.06-11.16.49:826][  7]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/I0S7DLLYP4OIF82A5AIGRP844A91094613F289B69CF7BEC325FA57.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/8R/I0S7DLLYP4OIF82A5AIGRP.uasset'
+[2023.07.06-11.16.49:828][  7]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/1F/0LQMLHE8OKI0MDX184VWOQ
+[2023.07.06-11.16.49:828][  7]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/0LQMLHE8OKI0MDX184VWOQ63B7C227410151917EB519A4374DB389.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/1F/0LQMLHE8OKI0MDX184VWOQ.uasset'
+[2023.07.06-11.16.49:830][  7]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/89/DQPQPFUWRMIQXUNJQ4CLYL
+[2023.07.06-11.16.49:830][  7]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/DQPQPFUWRMIQXUNJQ4CLYL4B89187948365A875E4476B9F1989D3B.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/89/DQPQPFUWRMIQXUNJQ4CLYL.uasset'
+[2023.07.06-11.16.49:832][  7]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/9C/GZI3LWSX1QX5ZYED68ES1I
+[2023.07.06-11.16.49:832][  7]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/GZI3LWSX1QX5ZYED68ES1I170B30E644687D873C4F96A487C2D55B.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/9C/GZI3LWSX1QX5ZYED68ES1I.uasset'
+[2023.07.06-11.16.49:834][  7]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416
+[2023.07.06-11.16.49:835][  7]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/TS5OQ5CRUWFZYL1ZQ7I4164A8013634AB064E3C8A109A74D59054B.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset'
+[2023.07.06-11.16.49:842][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 2.77 sec)
+[2023.07.06-11.16.49:846][  7]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-11.16.49:846][  7]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DirectionalLight_0
+[2023.07.06-11.16.49:846][  7]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622229301_1364860383
+[2023.07.06-11.16.49:846][  7]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622229301_1342073382
+[2023.07.06-11.16.49:846][  7]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622229301_1317091381
+[2023.07.06-11.16.49:846][  7]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622229301_1307223380
+[2023.07.06-11.16.49:846][  7]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622229301_1286745379
+[2023.07.06-11.16.51:019][ 77]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.06-11.16.51:024][ 77]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.07.06-11.16.51:025][ 77]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.06-11.16.51:025][ 77]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.06-11.16.51:025][ 77]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 158 us)
+[2023.07.06-11.16.51:025][ 77]LogWorldPartition: Display: GenerateStreaming took 217 us (total: 1 ms)
+[2023.07.06-11.16.51:025][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.06-11.16.51:025][ 77]PIE: New page: PIE session: ThirdPersonMap (6 lip 2023, 15:16:51)
+[2023.07.06-11.16.51:025][ 77]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.06-11.16.51:030][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003865s)
+[2023.07.06-11.16.51:030][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003896s)
+[2023.07.06-11.16.51:030][ 77]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.06-11.16.51:030][ 77]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.07.06-11.16.51:031][ 77]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.07.06-11.16.51:031][ 77]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.06-11.16.51:031][ 77]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.06-11.16.51:031][ 77]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.07.06-11.16.51:032][ 77]LogWorldPartition: Display: WorldPartition initialize took 844 us (total: 405 ms)
+[2023.07.06-11.16.51:032][ 77]LogPlayLevel: PIE: World Init took: (0.001739s)
+[2023.07.06-11.16.51:056][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.07.06-11.16.51:057][ 77]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.07.06-11.16.51:057][ 77]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.06-11.16.51:057][ 77]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.06-11.16.51:057][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.06-11.16.51:057][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.06-11.16.51:057][ 77]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.06-11.16.51:057][ 77]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.06-11.16.51:057][ 77]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.06-11.16.51:057][ 77]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.06-11.16.51:058][ 77]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.06-11.16.51:058][ 77]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.06-11.16.51:058][ 77]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.06-11.16.51:059][ 77]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.06-11.16.51:094][ 77]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Realtek(R) Audio)
+[2023.07.06-11.16.51:094][ 77]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.06-11.16.51:094][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.06-11.16.51:094][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.06-11.16.51:095][ 77]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.07.06-11.16.51:095][ 77]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.07.06-11.16.51:097][ 77]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.07.06-11.16.51:097][ 77]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.07.06-11.16.51:097][ 77]LogInit: FAudioDevice initialized.
+[2023.07.06-11.16.51:097][ 77]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2023.07.06-11.16.51:100][ 77]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.06-11.16.51:103][ 77]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.07.06-13.16.51
+[2023.07.06-11.16.51:103][ 77]LogWorld: Bringing up level for play took: 0.002788
+[2023.07.06-11.16.51:105][ 77]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.07.06-11.16.51:108][ 77]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=320.000 Y=-1050.000 Z=31.201
+[2023.07.06-11.16.51:108][ 77]PIE: Server logged in
+[2023.07.06-11.16.51:109][ 77]PIE: Play in editor total start time 0,085 seconds.
+[2023.07.06-11.17.41:949][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.06-11.17.41:949][697]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.06-11.17.41:950][697]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.06-11.17.41:950][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-11.17.41:950][697]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.07.06-11.17.41:962][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.06-11.17.41:965][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-11.17.41:992][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.06-11.17.41:993][697]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.07.06-11.17.41:995][697]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.07.06-11.17.42:003][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.07.06-11.17.42:028][698]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.07.06-11.18.42:760][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.07.06-11.18.46:076][249]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-11.18.46:092][249]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.18.46:166][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889
+[2023.07.06-11.18.46:168][249]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FX6RHZN183V4HILBSPI889701512BD49F477E5B5E13F93D910B8CC.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6O/FX6RHZN183V4HILBSPI889.uasset'
+[2023.07.06-11.18.46:170][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/BK/Y43WDP1LXAX99KJKIDV3JF
+[2023.07.06-11.18.46:171][249]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/Y43WDP1LXAX99KJKIDV3JFD121D7264FBC3F447C6006A5677319BA.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/BK/Y43WDP1LXAX99KJKIDV3JF.uasset'
+[2023.07.06-11.18.46:172][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/OW/3XNGBTZAO3KCOCB43X1DSY
+[2023.07.06-11.18.46:173][249]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/3XNGBTZAO3KCOCB43X1DSY0370885B4DFA85CEAFAF6FA4654AB01C.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/OW/3XNGBTZAO3KCOCB43X1DSY.uasset'
+[2023.07.06-11.18.46:175][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/8R/I0S7DLLYP4OIF82A5AIGRP
+[2023.07.06-11.18.46:175][249]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/I0S7DLLYP4OIF82A5AIGRP45087AAF48A3FCD6DC664080226B3257.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/8R/I0S7DLLYP4OIF82A5AIGRP.uasset'
+[2023.07.06-11.18.46:177][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/1F/0LQMLHE8OKI0MDX184VWOQ
+[2023.07.06-11.18.46:177][249]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/0LQMLHE8OKI0MDX184VWOQ3E3E7617477B025069AEFDB15B655588.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/1F/0LQMLHE8OKI0MDX184VWOQ.uasset'
+[2023.07.06-11.18.46:179][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/89/DQPQPFUWRMIQXUNJQ4CLYL
+[2023.07.06-11.18.46:179][249]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/DQPQPFUWRMIQXUNJQ4CLYL399E0CF84F862B4A3468D099E701DDEC.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/89/DQPQPFUWRMIQXUNJQ4CLYL.uasset'
+[2023.07.06-11.18.46:181][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/9C/GZI3LWSX1QX5ZYED68ES1I
+[2023.07.06-11.18.46:182][249]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/GZI3LWSX1QX5ZYED68ES1IFA67AAA64C6CF65740976DB35BAAE70B.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/9C/GZI3LWSX1QX5ZYED68ES1I.uasset'
+[2023.07.06-11.18.46:183][249]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/1Z/TCXRLD08OCNKHN49IQW272
+[2023.07.06-11.18.46:184][249]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/TCXRLD08OCNKHN49IQW27218B430674A4656197D21B6B862B8038B.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/1Z/TCXRLD08OCNKHN49IQW272.uasset'
+[2023.07.06-11.18.46:192][249]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 2.87 sec)
+[2023.07.06-11.18.46:196][249]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-11.18.46:196][249]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/Arena/arena-httyd/MainGate.MainGate_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MainGate_C_UAID_E4A8DFCE2622DF9201_1188267598
+[2023.07.06-11.18.46:196][249]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622229301_1364860383
+[2023.07.06-11.18.46:196][249]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1926124202
+[2023.07.06-11.18.46:196][249]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622219301_1113337201
+[2023.07.06-11.18.46:196][249]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622229301_1342073382
+[2023.07.06-11.18.46:196][249]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622229301_1317091381
+[2023.07.06-11.18.46:196][249]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622229301_1307223380
+[2023.07.06-11.18.46:196][249]LogContentValidation: Display: Validating /Game/ThirdPerson/Maps/torch/BP_Torch.BP_Torch_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Torch_C_UAID_E4A8DFCE2622229301_1286745379
+[2023.07.06-11.19.49:530][822]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: ================================================
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: Total job queries 275, among them cache hits 14 (5.09%)
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: Tracking 261 distinct input hashes that result in 119 distinct outputs (45.59%)
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: RAM used: 1.94 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.24%
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: Shaders Compiled: 92
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: Jobs assigned 92, completed 92 (100.00%)
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: Average time worker was idle: 17.24 s
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: Time job spent in pending queue: average 0.37 s, longest 0.99 s
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: Job execution time: average 0.71 s, max 0.95 s
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: Job life time (pending + execution): average 1.08 s, max 1.81
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.50 s
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: Jobs were issued in 92 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: Average processing rate: 8.76 jobs/sec
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: Total thread time: 54.39 s
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: Total thread preprocess time: 3.23 s
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: Percentage time preprocessing: 5.93%
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: Effective parallelization: 5.18 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    5 times, average 0.72 sec, max 0.80 sec, min 0.68 sec)
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    5 times, average 0.70 sec, max 0.76 sec, min 0.65 sec)
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    5 times, average 0.69 sec, max 0.78 sec, min 0.65 sec)
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    5 times, average 0.69 sec, max 0.72 sec, min 0.64 sec)
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    5 times, average 0.69 sec, max 0.71 sec, min 0.66 sec)
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.01% of total time (compiled    8 times, average 0.61 sec, max 0.73 sec, min 0.46 sec)
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.23% of total time (compiled    8 times, average 0.56 sec, max 0.68 sec, min 0.43 sec)
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.34% of total time (compiled    8 times, average 0.50 sec, max 0.59 sec, min 0.39 sec)
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.59% of total time (compiled    5 times, average 0.72 sec, max 0.80 sec, min 0.68 sec)
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.47% of total time (compiled    5 times, average 0.70 sec, max 0.76 sec, min 0.65 sec)
+[2023.07.06-11.19.51:935][953]LogShaderCompilers: Display: ================================================
+[2023.07.06-11.21.12:648][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.07.06-11.21.13:554][362]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-11.21.13:572][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.21.13:656][362]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/W9/NT62FVISDTZ7Y4CQYT5GI2
+[2023.07.06-11.21.13:656][362]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/NT62FVISDTZ7Y4CQYT5GI229BC49CB46B6CDA21AE2FDB570DE5D71.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/W9/NT62FVISDTZ7Y4CQYT5GI2.uasset'
+[2023.07.06-11.21.13:659][362]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/LC/DXLDL7R2IOGXQCO3G8LJW0
+[2023.07.06-11.21.13:659][362]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/DXLDL7R2IOGXQCO3G8LJW0242B0C8E468E5571C5DBBB9C74448636.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/LC/DXLDL7R2IOGXQCO3G8LJW0.uasset'
+[2023.07.06-11.21.13:661][362]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/K4/LIXSPHZIEO66HSJR79928O
+[2023.07.06-11.21.13:661][362]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/LIXSPHZIEO66HSJR79928O1EE678EA4C09BA91BD9C40835DDD2D8B.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/K4/LIXSPHZIEO66HSJR79928O.uasset'
+[2023.07.06-11.21.13:663][362]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/TZ/8NQUK074ZQCWINE61HUVWN
+[2023.07.06-11.21.13:664][362]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/8NQUK074ZQCWINE61HUVWN69C272514B9F838D18124DBF77394D4F.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/TZ/8NQUK074ZQCWINE61HUVWN.uasset'
+[2023.07.06-11.21.13:665][362]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/9D/T0ZCVUWC1ZXJUW9HVPFWFH
+[2023.07.06-11.21.13:666][362]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/T0ZCVUWC1ZXJUW9HVPFWFH09DD0E1746332BB3F1C45F9B804B4491.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/9D/T0ZCVUWC1ZXJUW9HVPFWFH.uasset'
+[2023.07.06-11.21.13:667][362]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/3O/FL7KL7AISUS91UX0AB4C5U
+[2023.07.06-11.21.13:667][362]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/FL7KL7AISUS91UX0AB4C5UDC5BE9BD4FAD8D0D8AD2F29152F61056.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/3O/FL7KL7AISUS91UX0AB4C5U.uasset'
+[2023.07.06-11.21.13:675][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 2.97 sec)
+[2023.07.06-11.21.13:680][362]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-11.21.13:680][362]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E4A8DFCE2622828701_1441474645
+[2023.07.06-11.21.13:680][362]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E4A8DFCE2622828701_1441526649
+[2023.07.06-11.21.13:680][362]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E4A8DFCE2622828701_1441422641
+[2023.07.06-11.21.13:680][362]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E4A8DFCE2622828701_1441539650
+[2023.07.06-11.21.13:680][362]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E4A8DFCE2622828701_1441461644
+[2023.07.06-11.21.13:680][362]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E4A8DFCE2622828701_1441435642
+[2023.07.06-11.21.35:098][586]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.06-11.21.35:104][586]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.07.06-11.21.35:105][586]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.06-11.21.35:105][586]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.06-11.21.35:105][586]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 165 us)
+[2023.07.06-11.21.35:105][586]LogWorldPartition: Display: GenerateStreaming took 210 us (total: 1 ms)
+[2023.07.06-11.21.35:105][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.06-11.21.35:106][586]PIE: New page: PIE session: ThirdPersonMap (6 lip 2023, 15:21:35)
+[2023.07.06-11.21.35:106][586]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.06-11.21.35:109][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003705s)
+[2023.07.06-11.21.35:109][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003736s)
+[2023.07.06-11.21.35:109][586]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.06-11.21.35:109][586]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.07.06-11.21.35:110][586]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.07.06-11.21.35:110][586]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.06-11.21.35:110][586]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.06-11.21.35:110][586]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.07.06-11.21.35:111][586]LogWorldPartition: Display: WorldPartition initialize took 863 us (total: 405 ms)
+[2023.07.06-11.21.35:111][586]LogPlayLevel: PIE: World Init took: (0.001729s)
+[2023.07.06-11.21.35:136][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.07.06-11.21.35:139][586]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.07.06-11.21.35:139][586]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.06-11.21.35:139][586]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.06-11.21.35:139][586]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.06-11.21.35:139][586]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.06-11.21.35:139][586]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.06-11.21.35:139][586]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.06-11.21.35:139][586]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.06-11.21.35:139][586]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.06-11.21.35:139][586]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.06-11.21.35:139][586]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.06-11.21.35:139][586]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.06-11.21.35:141][586]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.06-11.21.35:171][586]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Realtek(R) Audio)
+[2023.07.06-11.21.35:172][586]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.06-11.21.35:172][586]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.06-11.21.35:172][586]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.06-11.21.35:172][586]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.07.06-11.21.35:172][586]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.07.06-11.21.35:174][586]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.07.06-11.21.35:174][586]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.07.06-11.21.35:174][586]LogInit: FAudioDevice initialized.
+[2023.07.06-11.21.35:174][586]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2023.07.06-11.21.35:177][586]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.06-11.21.35:180][586]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.07.06-13.21.35
+[2023.07.06-11.21.35:180][586]LogWorld: Bringing up level for play took: 0.002824
+[2023.07.06-11.21.35:182][586]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.07.06-11.21.35:185][586]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=320.000 Y=-1050.000 Z=31.201
+[2023.07.06-11.21.35:186][586]PIE: Server logged in
+[2023.07.06-11.21.35:186][586]PIE: Play in editor total start time 0,083 seconds.
+[2023.07.06-11.22.07:450][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.06-11.22.07:450][316]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.06-11.22.07:450][316]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.06-11.22.07:450][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-11.22.07:450][316]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.07.06-11.22.07:453][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.06-11.22.07:457][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-11.22.07:480][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.06-11.22.07:481][316]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.07.06-11.22.07:482][316]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.07.06-11.22.07:490][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.07.06-11.22.07:532][317]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.07.06-11.22.16:458][819]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPerson/Maps/Arena/arena-httyd/source/arena17-_uv4_arena_main.arena17-_uv4_arena_main
+[2023.07.06-11.22.16:566][819]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.06-11.22.16:795][819]LogViewport: Scene viewport resized to 1765x1161, mode Windowed.
+[2023.07.06-11.22.37:858][ 35]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.06-11.22.37:862][ 35]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.07.06-11.22.37:863][ 35]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.06-11.22.37:863][ 35]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.06-11.22.37:863][ 35]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 170 us)
+[2023.07.06-11.22.37:863][ 35]LogWorldPartition: Display: GenerateStreaming took 204 us (total: 1 ms)
+[2023.07.06-11.22.37:863][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.06-11.22.37:864][ 35]PIE: New page: PIE session: ThirdPersonMap (6 lip 2023, 15:22:37)
+[2023.07.06-11.22.37:864][ 35]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.06-11.22.37:867][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003699s)
+[2023.07.06-11.22.37:867][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003737s)
+[2023.07.06-11.22.37:867][ 35]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.06-11.22.37:868][ 35]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.07.06-11.22.37:868][ 35]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.07.06-11.22.37:868][ 35]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.06-11.22.37:868][ 35]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.06-11.22.37:869][ 35]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.07.06-11.22.37:869][ 35]LogWorldPartition: Display: WorldPartition initialize took 972 us (total: 406 ms)
+[2023.07.06-11.22.37:869][ 35]LogPlayLevel: PIE: World Init took: (0.001969s)
+[2023.07.06-11.22.37:896][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.07.06-11.22.37:898][ 35]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.07.06-11.22.37:898][ 35]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.06-11.22.37:898][ 35]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.06-11.22.37:898][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.06-11.22.37:898][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.06-11.22.37:898][ 35]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.06-11.22.37:898][ 35]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.06-11.22.37:898][ 35]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.06-11.22.37:898][ 35]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.06-11.22.37:898][ 35]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.06-11.22.37:898][ 35]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.06-11.22.37:898][ 35]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.06-11.22.37:900][ 35]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.06-11.22.37:942][ 35]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Realtek(R) Audio)
+[2023.07.06-11.22.37:942][ 35]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.06-11.22.37:942][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.06-11.22.37:942][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.06-11.22.37:944][ 35]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.07.06-11.22.37:944][ 35]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.07.06-11.22.37:945][ 35]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.07.06-11.22.37:945][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.07.06-11.22.37:945][ 35]LogInit: FAudioDevice initialized.
+[2023.07.06-11.22.37:945][ 35]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2023.07.06-11.22.37:947][ 35]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.06-11.22.37:950][ 35]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.07.06-13.22.37
+[2023.07.06-11.22.37:951][ 35]LogWorld: Bringing up level for play took: 0.002498
+[2023.07.06-11.22.37:953][ 35]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.07.06-11.22.37:955][ 35]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=320.000 Y=-1050.000 Z=31.201
+[2023.07.06-11.22.37:956][ 35]PIE: Server logged in
+[2023.07.06-11.22.37:956][ 35]PIE: Play in editor total start time 0,094 seconds.
+[2023.07.06-11.22.46:349][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.06-11.22.46:350][443]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.06-11.22.46:350][443]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.06-11.22.46:350][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-11.22.46:350][443]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.07.06-11.22.46:354][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.06-11.22.46:358][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-11.22.46:386][443]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.06-11.22.46:386][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.07.06-11.22.46:388][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.07.06-11.22.46:394][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.06-11.22.46:397][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.07.06-11.22.46:437][444]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.07.06-11.24.42:430][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.07.06-11.24.43:255][675]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-11.24.43:295][675]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.24.43:381][675]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Arena/arena-httyd/source/arena17-_uv4_arena_main
+[2023.07.06-11.24.43:382][675]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/arena17-_uv4_arena_main72DE5CF843C5549F9187EDB6FCD19E75.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/Arena/arena-httyd/source/arena17-_uv4_arena_main.uasset'
+[2023.07.06-11.24.43:390][675]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 3.07 sec)
+[2023.07.06-11.24.43:395][675]AssetCheck: New page: Asset Save: arena17-_uv4_arena_main
+[2023.07.06-11.24.43:395][675]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ThirdPerson/Maps/Arena/arena-httyd/source/arena17-_uv4_arena_main.arena17-_uv4_arena_main
+[2023.07.06-11.24.45:794][815]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.06-11.24.45:799][815]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.07.06-11.24.45:800][815]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.06-11.24.45:800][815]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.06-11.24.45:800][815]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 178 us)
+[2023.07.06-11.24.45:800][815]LogWorldPartition: Display: GenerateStreaming took 213 us (total: 2 ms)
+[2023.07.06-11.24.45:800][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.06-11.24.45:800][815]PIE: New page: PIE session: ThirdPersonMap (6 lip 2023, 15:24:45)
+[2023.07.06-11.24.45:800][815]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.06-11.24.45:804][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003664s)
+[2023.07.06-11.24.45:804][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003697s)
+[2023.07.06-11.24.45:804][815]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.06-11.24.45:804][815]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.07.06-11.24.45:805][815]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.07.06-11.24.45:805][815]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.06-11.24.45:805][815]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.06-11.24.45:806][815]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.07.06-11.24.45:806][815]LogWorldPartition: Display: WorldPartition initialize took 880 us (total: 407 ms)
+[2023.07.06-11.24.45:806][815]LogPlayLevel: PIE: World Init took: (0.002086s)
+[2023.07.06-11.24.45:832][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.07.06-11.24.45:833][815]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.07.06-11.24.45:833][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.06-11.24.45:833][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.06-11.24.45:833][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.06-11.24.45:833][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.06-11.24.45:833][815]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.06-11.24.45:833][815]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.06-11.24.45:833][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.06-11.24.45:833][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.06-11.24.45:834][815]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.06-11.24.45:834][815]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.06-11.24.45:834][815]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.06-11.24.45:836][815]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.06-11.24.45:867][815]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Realtek(R) Audio)
+[2023.07.06-11.24.45:868][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.06-11.24.45:868][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.06-11.24.45:868][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.06-11.24.45:871][815]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.07.06-11.24.45:871][815]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.07.06-11.24.45:872][815]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.07.06-11.24.45:872][815]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.07.06-11.24.45:872][815]LogInit: FAudioDevice initialized.
+[2023.07.06-11.24.45:872][815]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2023.07.06-11.24.45:874][815]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.06-11.24.45:877][815]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.07.06-13.24.45
+[2023.07.06-11.24.45:877][815]LogWorld: Bringing up level for play took: 0.002837
+[2023.07.06-11.24.45:880][815]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.07.06-11.24.45:883][815]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=320.000 Y=-1050.000 Z=31.201
+[2023.07.06-11.24.45:883][815]PIE: Server logged in
+[2023.07.06-11.24.45:884][815]PIE: Play in editor total start time 0,085 seconds.
+[2023.07.06-11.25.22:400][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.06-11.25.22:400][807]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.06-11.25.22:400][807]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.06-11.25.22:400][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-11.25.22:401][807]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.07.06-11.25.22:404][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.06-11.25.22:408][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-11.25.22:431][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.06-11.25.22:432][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.07.06-11.25.22:433][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.07.06-11.25.22:442][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.07.06-11.25.22:480][808]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.07.06-11.26.25:624][513]LogEditorTransaction: Undo Translate Collision
+[2023.07.06-11.26.35:613][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.07.06-11.26.36:511][ 67]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-11.26.36:543][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.26.36:610][ 67]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Arena/arena-httyd/source/arena17-_uv4_arena_main
+[2023.07.06-11.26.36:611][ 67]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/arena17-_uv4_arena_mainA950CFD44A03F8D0DE82A9BA6732AE25.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/Arena/arena-httyd/source/arena17-_uv4_arena_main.uasset'
+[2023.07.06-11.26.36:617][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 3.14 sec)
+[2023.07.06-11.26.36:622][ 67]AssetCheck: New page: Asset Save: arena17-_uv4_arena_main
+[2023.07.06-11.26.36:622][ 67]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ThirdPerson/Maps/Arena/arena-httyd/source/arena17-_uv4_arena_main.arena17-_uv4_arena_main
+[2023.07.06-11.26.39:432][235]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.06-11.26.39:436][235]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.07.06-11.26.39:438][235]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.06-11.26.39:438][235]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.06-11.26.39:438][235]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 183 us)
+[2023.07.06-11.26.39:438][235]LogWorldPartition: Display: GenerateStreaming took 209 us (total: 2 ms)
+[2023.07.06-11.26.39:438][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.06-11.26.39:438][235]PIE: New page: PIE session: ThirdPersonMap (6 lip 2023, 15:26:39)
+[2023.07.06-11.26.39:438][235]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.06-11.26.39:442][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003932s)
+[2023.07.06-11.26.39:442][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003961s)
+[2023.07.06-11.26.39:442][235]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.06-11.26.39:442][235]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.07.06-11.26.39:443][235]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.07.06-11.26.39:443][235]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.06-11.26.39:443][235]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.06-11.26.39:444][235]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.07.06-11.26.39:444][235]LogWorldPartition: Display: WorldPartition initialize took 902 us (total: 408 ms)
+[2023.07.06-11.26.39:444][235]LogPlayLevel: PIE: World Init took: (0.001850s)
+[2023.07.06-11.26.39:472][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.07.06-11.26.39:473][235]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.07.06-11.26.39:473][235]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.06-11.26.39:473][235]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.06-11.26.39:473][235]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.06-11.26.39:473][235]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.06-11.26.39:473][235]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.06-11.26.39:473][235]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.06-11.26.39:473][235]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.06-11.26.39:473][235]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.06-11.26.39:473][235]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.06-11.26.39:473][235]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.06-11.26.39:473][235]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.06-11.26.39:475][235]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.06-11.26.39:507][235]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Realtek(R) Audio)
+[2023.07.06-11.26.39:507][235]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.06-11.26.39:507][235]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.06-11.26.39:507][235]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.06-11.26.39:507][235]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.07.06-11.26.39:507][235]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.07.06-11.26.39:509][235]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.07.06-11.26.39:509][235]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.07.06-11.26.39:509][235]LogInit: FAudioDevice initialized.
+[2023.07.06-11.26.39:509][235]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2023.07.06-11.26.39:511][235]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.06-11.26.39:514][235]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.07.06-13.26.39
+[2023.07.06-11.26.39:514][235]LogWorld: Bringing up level for play took: 0.002561
+[2023.07.06-11.26.39:516][235]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.07.06-11.26.39:519][235]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=320.000 Y=-1050.000 Z=31.201
+[2023.07.06-11.26.39:520][235]PIE: Server logged in
+[2023.07.06-11.26.39:520][235]PIE: Play in editor total start time 0,084 seconds.
+[2023.07.06-11.26.57:049][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.06-11.26.57:050][156]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.06-11.26.57:050][156]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.06-11.26.57:050][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-11.26.57:050][156]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.07.06-11.26.57:055][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.06-11.26.57:058][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-11.26.57:082][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.06-11.26.57:082][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.07.06-11.26.57:085][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.07.06-11.26.57:092][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.07.06-11.26.57:130][157]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.07.06-11.27.22:197][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.07.06-11.27.23:105][469]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-11.27.23:141][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.27.23:224][469]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Arena/arena-httyd/source/arena17-_uv4_arena_main
+[2023.07.06-11.27.23:224][469]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/arena17-_uv4_arena_mainC4BC677046CA1901106F8C81DC28F4B4.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Maps/Arena/arena-httyd/source/arena17-_uv4_arena_main.uasset'
+[2023.07.06-11.27.23:231][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 3.23 sec)
+[2023.07.06-11.27.23:235][469]AssetCheck: New page: Asset Save: arena17-_uv4_arena_main
+[2023.07.06-11.27.23:235][469]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ThirdPerson/Maps/Arena/arena-httyd/source/arena17-_uv4_arena_main.arena17-_uv4_arena_main
+[2023.07.06-11.27.25:281][590]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.06-11.27.25:285][590]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.07.06-11.27.25:286][590]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.06-11.27.25:286][590]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.06-11.27.25:286][590]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 188 us)
+[2023.07.06-11.27.25:287][590]LogWorldPartition: Display: GenerateStreaming took 217 us (total: 2 ms)
+[2023.07.06-11.27.25:287][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.06-11.27.25:287][590]PIE: New page: PIE session: ThirdPersonMap (6 lip 2023, 15:27:25)
+[2023.07.06-11.27.25:287][590]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.06-11.27.25:291][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003611s)
+[2023.07.06-11.27.25:291][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003637s)
+[2023.07.06-11.27.25:291][590]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.06-11.27.25:292][590]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.07.06-11.27.25:292][590]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.07.06-11.27.25:292][590]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.06-11.27.25:292][590]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.06-11.27.25:293][590]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.07.06-11.27.25:293][590]LogWorldPartition: Display: WorldPartition initialize took 890 us (total: 409 ms)
+[2023.07.06-11.27.25:293][590]LogPlayLevel: PIE: World Init took: (0.001775s)
+[2023.07.06-11.27.25:320][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.07.06-11.27.25:321][590]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.07.06-11.27.25:321][590]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.06-11.27.25:321][590]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.06-11.27.25:321][590]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.06-11.27.25:321][590]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.06-11.27.25:321][590]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.06-11.27.25:321][590]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.06-11.27.25:321][590]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.06-11.27.25:321][590]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.06-11.27.25:322][590]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.06-11.27.25:322][590]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.06-11.27.25:322][590]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.06-11.27.25:324][590]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.06-11.27.25:354][590]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Realtek(R) Audio)
+[2023.07.06-11.27.25:355][590]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.06-11.27.25:355][590]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.06-11.27.25:355][590]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.06-11.27.25:356][590]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.07.06-11.27.25:356][590]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.07.06-11.27.25:357][590]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.07.06-11.27.25:357][590]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.07.06-11.27.25:357][590]LogInit: FAudioDevice initialized.
+[2023.07.06-11.27.25:357][590]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2023.07.06-11.27.25:360][590]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.06-11.27.25:362][590]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.07.06-13.27.25
+[2023.07.06-11.27.25:362][590]LogWorld: Bringing up level for play took: 0.002556
+[2023.07.06-11.27.25:364][590]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.07.06-11.27.25:368][590]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=320.000 Y=-1050.000 Z=31.201
+[2023.07.06-11.27.25:368][590]PIE: Server logged in
+[2023.07.06-11.27.25:369][590]PIE: Play in editor total start time 0,083 seconds.
+[2023.07.06-11.28.14:489][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.06-11.28.14:489][228]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.06-11.28.14:489][228]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.06-11.28.14:490][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-11.28.14:490][228]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.07.06-11.28.14:494][228]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.06-11.28.14:499][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-11.28.14:521][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.06-11.28.14:521][228]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.07.06-11.28.14:523][228]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.07.06-11.28.14:531][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.07.06-11.28.14:568][229]LogPlayLevel: Display: Destroying online subsystem :Context_19
