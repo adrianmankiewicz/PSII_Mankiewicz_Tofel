@@ -1724,3 +1724,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.22-11.19.09:169][660]LogViewport: Scene viewport resized to 1765x1161, mode Windowed.
 [2023.07.22-11.19.13:056][869]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
 [2023.07.22-11.19.13:056][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.22-11.26.39:787][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.07.22-11.26.41:621][193]LogSlate: Window 'Delete Assets' being destroyed
+[2023.07.22-11.26.41:689][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.07.22-11.26.41:736][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.07.22-11.26.41:782][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.07.22-11.26.44:460][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.07.22-11.26.45:846][329]LogSlate: Window 'Delete Assets' being destroyed
+[2023.07.22-11.26.45:920][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.07.22-11.26.45:973][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.07.22-11.26.46:015][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
