@@ -1901,3 +1901,15 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.22-11.39.36:106][577]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
 [2023.07.22-11.39.36:106][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.07.22-11.53.28:450][707]LogDerivedDataCache: C:/Users/adria/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.107 and deleted 0 files with total size 0 MiB. Scanned 7578 files in 7461 folders with total size 868 MiB.
+[2023.07.22-12.39.22:289][943]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Głośniki (Realtek(R) Audio), InstanceID=1
+[2023.07.22-12.39.22:332][943]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11832
+[2023.07.22-12.39.22:669][944]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e62b856d-4c17-4a9c-ab4b-dd6c732dffc1}, Name=Głośniki (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=169.37
+[2023.07.22-12.39.22:669][944]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.07.22-12.39.22:671][944]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.07.22-12.39.31:005][970]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.07.22-12.43.01:656][970]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [214420ms] waiting for h/w. InstanceID=1
+[2023.07.22-12.43.03:964][970]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11832
+[2023.07.22-12.43.04:966][971]LogUdpMessaging: Display: Added local interface '192.168.9.55' to multicast group '230.0.0.1:6666'
+[2023.07.22-12.43.04:983][971]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e62b856d-4c17-4a9c-ab4b-dd6c732dffc1}, Name=Głośniki (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=246.35
+[2023.07.22-12.43.04:983][971]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.07.22-12.43.04:985][971]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
