@@ -8010,3 +8010,1034 @@ center_of_mass
 [2023.07.26-16.31.46:987][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.07.26-16.31.46:989][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
 [2023.07.26-16.31.47:038][737]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2023.07.26-16.32.34:606][338]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.32.34:606][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.33.30:149][185]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.26-16.33.30:162][185]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.07.26-16.33.30:165][185]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.26-16.33.30:165][185]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.26-16.33.30:165][185]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 336 us)
+[2023.07.26-16.33.30:165][185]LogWorldPartition: Display: GenerateStreaming took 375 us (total: 10 ms)
+[2023.07.26-16.33.30:165][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.26-16.33.30:165][185]PIE: New page: PIE session: ThirdPersonMap (26 lip 2023, 20:33:30)
+[2023.07.26-16.33.30:166][185]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.26-16.33.30:173][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008209s)
+[2023.07.26-16.33.30:174][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.008260s)
+[2023.07.26-16.33.30:174][185]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.33.30:174][185]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.07.26-16.33.30:176][185]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.07.26-16.33.30:177][185]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.26-16.33.30:177][185]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.26-16.33.30:178][185]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.07.26-16.33.30:179][185]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.02 sec)
+[2023.07.26-16.33.30:179][185]LogPlayLevel: PIE: World Init took: (0.004620s)
+[2023.07.26-16.33.30:229][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.07.26-16.33.30:234][185]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.07.26-16.33.30:234][185]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.26-16.33.30:234][185]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.26-16.33.30:234][185]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.26-16.33.30:234][185]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.26-16.33.30:234][185]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.26-16.33.30:234][185]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.26-16.33.30:234][185]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.26-16.33.30:234][185]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.26-16.33.30:234][185]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.26-16.33.30:234][185]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.26-16.33.30:234][185]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.26-16.33.30:238][185]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.26-16.33.30:297][185]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Realtek(R) Audio)
+[2023.07.26-16.33.30:297][185]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.26-16.33.30:297][185]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.26-16.33.30:297][185]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.26-16.33.30:303][185]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2023.07.26-16.33.30:303][185]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2023.07.26-16.33.30:304][185]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2023.07.26-16.33.30:306][185]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2023.07.26-16.33.30:306][185]LogInit: FAudioDevice initialized.
+[2023.07.26-16.33.30:306][185]LogAudio: Display: Audio Device (ID: 33) registered with world 'ThirdPersonMap'.
+[2023.07.26-16.33.30:309][185]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.26-16.33.30:315][185]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.33.30:321][185]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.07.26-18.33.30
+[2023.07.26-16.33.30:322][185]LogWorld: Bringing up level for play took: 0.012598
+[2023.07.26-16.33.30:324][185]LogOnline: OSS: Created online subsystem instance for: :Context_127
+[2023.07.26-16.33.30:326][185]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.33.30:326][185]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.33.30:328][185]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=320.000 Y=-1050.000 Z=31.201
+[2023.07.26-16.33.30:330][185]PIE: Server logged in
+[2023.07.26-16.33.30:331][185]PIE: Play in editor total start time 0,17 seconds.
+[2023.07.26-16.33.43:338][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-16.33.43:338][651]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.26-16.33.43:338][651]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.33.43:339][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.33.43:339][651]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.07.26-16.33.43:352][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.26-16.33.43:356][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.33.43:398][651]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.26-16.33.43:398][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.07.26-16.33.43:400][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.07.26-16.33.43:406][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-16.33.43:409][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.07.26-16.33.43:457][652]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2023.07.26-16.34.14:739][999]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.07.26-16.34.14:760][999]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.34.14:760][999]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.34.14:762][999]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.34.14:762][999]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.34.14:764][999]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.34.14:764][999]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.34.14:823][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.07.26-16.34.14:844][999]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.34.14:844][999]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.34.16:092][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.07.26-16.34.16:930][ 52]LogSlate: Window 'Save Content' being destroyed
+[2023.07.26-16.34.16:941][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-16.34.17:093][ 52]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.07.26-16.34.17:094][ 52]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_ThirdPersonCharacter38ED8F9D488A7C4A89E55F89B9A6FFD8.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.07.26-16.34.17:102][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 26.3 sec)
+[2023.07.26-16.34.17:108][ 52]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.07.26-16.34.17:108][ 52]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.07.26-16.34.19:430][171]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.26-16.34.19:438][171]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.07.26-16.34.19:440][171]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.26-16.34.19:440][171]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.26-16.34.19:440][171]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 343 us)
+[2023.07.26-16.34.19:440][171]LogWorldPartition: Display: GenerateStreaming took 286 us (total: 10 ms)
+[2023.07.26-16.34.19:441][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.26-16.34.19:441][171]PIE: New page: PIE session: ThirdPersonMap (26 lip 2023, 20:34:19)
+[2023.07.26-16.34.19:441][171]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.26-16.34.19:447][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006029s)
+[2023.07.26-16.34.19:447][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006089s)
+[2023.07.26-16.34.19:447][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.34.19:447][171]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.07.26-16.34.19:448][171]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.07.26-16.34.19:448][171]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.26-16.34.19:448][171]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.26-16.34.19:450][171]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.07.26-16.34.19:450][171]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 1.03 sec)
+[2023.07.26-16.34.19:450][171]LogPlayLevel: PIE: World Init took: (0.003545s)
+[2023.07.26-16.34.19:489][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.07.26-16.34.19:490][171]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.07.26-16.34.19:490][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.26-16.34.19:490][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.26-16.34.19:490][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.26-16.34.19:490][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.26-16.34.19:490][171]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.26-16.34.19:490][171]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.26-16.34.19:490][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.26-16.34.19:490][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.26-16.34.19:491][171]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.26-16.34.19:491][171]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.26-16.34.19:491][171]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.26-16.34.19:493][171]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.26-16.34.19:532][171]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Realtek(R) Audio)
+[2023.07.26-16.34.19:532][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.26-16.34.19:532][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.26-16.34.19:532][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.26-16.34.19:534][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2023.07.26-16.34.19:534][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2023.07.26-16.34.19:536][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2023.07.26-16.34.19:536][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2023.07.26-16.34.19:536][171]LogInit: FAudioDevice initialized.
+[2023.07.26-16.34.19:536][171]LogAudio: Display: Audio Device (ID: 34) registered with world 'ThirdPersonMap'.
+[2023.07.26-16.34.19:538][171]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.26-16.34.19:542][171]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.34.19:544][171]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.07.26-18.34.19
+[2023.07.26-16.34.19:546][171]LogWorld: Bringing up level for play took: 0.007464
+[2023.07.26-16.34.19:548][171]LogOnline: OSS: Created online subsystem instance for: :Context_128
+[2023.07.26-16.34.19:549][171]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.34.19:549][171]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.34.19:550][171]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=320.000 Y=-1050.000 Z=31.201
+[2023.07.26-16.34.19:551][171]PIE: Server logged in
+[2023.07.26-16.34.19:552][171]PIE: Play in editor total start time 0,114 seconds.
+[2023.07.26-16.34.20:199][192]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.07.26-16.34.23:340][300]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.07.26-16.34.23:484][305]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.07.26-16.34.23:733][314]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.07.26-16.34.23:896][320]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.07.26-16.34.24:059][326]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.07.26-16.34.24:221][332]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.07.26-16.34.24:777][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-16.34.24:777][351]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.26-16.34.24:777][351]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.34.24:778][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.34.24:778][351]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.07.26-16.34.24:794][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.26-16.34.24:799][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.34.24:844][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-16.34.24:845][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.07.26-16.34.24:847][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.07.26-16.34.24:856][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.07.26-16.34.24:901][352]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2023.07.26-16.34.32:178][690]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.07.26-16.34.32:201][690]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.34.32:201][690]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.34.32:203][690]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.34.32:203][690]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.34.32:207][690]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.34.32:207][690]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.34.32:267][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.07.26-16.34.32:285][690]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.34.32:285][690]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.34.32:878][712]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-16.34.32:972][712]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.07.26-16.34.32:973][712]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_ThirdPersonCharacter1016EEB1475167BD7EA1C0924C531AB3.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.07.26-16.34.32:982][712]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 26.4 sec)
+[2023.07.26-16.34.32:986][712]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.07.26-16.34.32:986][712]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.07.26-16.34.37:366][917]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.34.37:367][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.34.37:407][917]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.34.37:407][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.34.39:577][ 15]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.34.39:577][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.34.39:714][ 15]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.34.39:714][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.34.39:801][ 15]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.34.39:801][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.35.41:729][115]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.35.41:729][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.35.41:739][115]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.35.41:739][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.35.41:852][115]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.35.41:852][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.37.19:267][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.07.26-16.37.20:191][356]LogSlate: Window 'Save Content' being destroyed
+[2023.07.26-16.37.20:202][356]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-16.37.20:345][356]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.07.26-16.37.20:345][356]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_ThirdPersonCharacterFFC7617840ABA6C393ED8FADB120F41D.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.07.26-16.37.20:354][356]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 26.6 sec)
+[2023.07.26-16.37.20:363][356]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.07.26-16.37.20:363][356]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.07.26-16.37.41:571][533]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Animations/PlayerAnimation/SwordSlash.SwordSlash
+[2023.07.26-16.37.41:572][533]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.37.41:584][533]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_95:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.37.41:809][533]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.37.41:942][533]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.37.41:967][533]LogViewport: Scene viewport resized to 1520x692, mode Windowed.
+[2023.07.26-16.37.41:984][533]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.07.26-16.37.44:059][623]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.37.44:059][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.37.44:069][623]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.37.44:069][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.37.44:123][623]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.37.44:123][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.37.53:172][152]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Animations/PlayerAnimation/SwordSlash.SwordSlash
+[2023.07.26-16.37.53:172][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.37.53:186][152]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_98:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.37.53:397][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.37.53:527][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.37.53:549][152]LogViewport: Scene viewport resized to 1520x692, mode Windowed.
+[2023.07.26-16.37.53:568][152]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.07.26-16.38.01:423][493]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.38.01:423][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.38.01:435][493]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.38.01:435][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.38.01:485][493]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.38.01:485][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.38.05:271][709]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Animations/PlayerAnimation/Running.Running
+[2023.07.26-16.38.05:273][709]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.38.05:284][709]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_101:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.38.05:494][709]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.38.05:621][709]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.38.05:645][709]LogViewport: Scene viewport resized to 1520x692, mode Windowed.
+[2023.07.26-16.38.05:659][709]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.07.26-16.38.07:507][785]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.38.07:507][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.38.07:518][785]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.38.07:518][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.38.07:567][785]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.38.07:567][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.38.16:091][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.07.26-16.38.17:656][275]LogSlate: Window 'Delete Assets' being destroyed
+[2023.07.26-16.38.17:767][275]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Characters/Animations/PlayerAnimation/SwordSlash_Montage.SwordSlash_Montage
+	Asset Type: AnimMontage
+	Asset Name: /Game/Characters/Animations/PlayerAnimation/SwordSlash.SwordSlash
+	Asset Type: AnimSequence
+[2023.07.26-16.38.18:126][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.07.26-16.38.18:155][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.07.26-16.38.18:183][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.07.26-16.38.29:542][395]LogViewport: Scene viewport resized to 946x665, mode Windowed.
+[2023.07.26-16.38.32:201][460]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\adria\Desktop\SwordSlash.FBX)
+[2023.07.26-16.38.32:207][460]LogFbx: Loading FBX Scene from C:\Users\adria\Desktop\SwordSlash.FBX
+[2023.07.26-16.38.32:233][460]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.26-16.38.36:103][460]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.07.26-16.38.36:129][460]LogFbx: SortedLinks :(0) root
+[2023.07.26-16.38.36:129][460]LogFbx: SortedLinks :(1) pelvis
+[2023.07.26-16.38.36:129][460]LogFbx: SortedLinks :(2) spine_01
+[2023.07.26-16.38.36:129][460]LogFbx: SortedLinks :(3) spine_02
+[2023.07.26-16.38.36:129][460]LogFbx: SortedLinks :(4) spine_03
+[2023.07.26-16.38.36:129][460]LogFbx: SortedLinks :(5) clavicle_l
+[2023.07.26-16.38.36:129][460]LogFbx: SortedLinks :(6) upperarm_l
+[2023.07.26-16.38.36:129][460]LogFbx: SortedLinks :(7) lowerarm_l
+[2023.07.26-16.38.36:129][460]LogFbx: SortedLinks :(8) hand_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(9) index_01_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(10) index_02_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(11) index_03_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(12) middle_01_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(13) middle_02_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(14) middle_03_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(15) pinky_01_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(16) pinky_02_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(17) pinky_03_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(18) ring_01_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(19) ring_02_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(20) ring_03_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(21) thumb_01_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(22) thumb_02_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(23) thumb_03_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(26) clavicle_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(27) upperarm_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(28) lowerarm_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(29) hand_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(30) index_01_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(31) index_02_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(32) index_03_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(33) middle_01_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(34) middle_02_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(35) middle_03_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(36) pinky_01_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(37) pinky_02_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(38) pinky_03_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(39) ring_01_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(40) ring_02_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(41) ring_03_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(42) thumb_01_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(43) thumb_02_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(44) thumb_03_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(47) neck_01
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(48) head
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(49) thigh_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(50) calf_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(52) foot_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(53) ball_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(55) thigh_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(56) calf_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(58) foot_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(59) ball_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(61) ik_foot_root
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(62) ik_foot_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(63) ik_foot_r
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(64) ik_hand_root
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(65) ik_hand_gun
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(66) ik_hand_l
+[2023.07.26-16.38.36:130][460]LogFbx: SortedLinks :(67) ik_hand_r
+[2023.07.26-16.38.36:131][460]LogFbx: Parsing AnimStack Unreal Take
+[2023.07.26-16.38.36:389][460]LogFbx: CurveName : blendOrient1
+[2023.07.26-16.38.36:389][460]LogFbx: CurveName(blendOrient1) is skipped because it only contains invalid values.
+[2023.07.26-16.38.36:389][460]LogFbx: CurveName : blendParent1
+[2023.07.26-16.38.36:389][460]LogFbx: CurveName(blendParent1) is skipped because it only contains invalid values.
+[2023.07.26-16.38.36:607][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.38.36:611][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.38.36:614][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Quinn_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.38.36:614][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.38.36:617][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.38.37:499][503]LogViewport: Scene viewport resized to 1920x670, mode Windowed.
+[2023.07.26-16.38.41:470][724]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Animations/PlayerAnimation/SwordSlash.SwordSlash
+[2023.07.26-16.38.41:471][724]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.38.41:483][724]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.38.41:698][724]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.38.41:819][724]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.38.41:844][724]LogViewport: Scene viewport resized to 1520x692, mode Windowed.
+[2023.07.26-16.38.41:859][724]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.07.26-16.38.47:338][978]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.38.49:763][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.07.26-16.38.50:959][ 90]LogSlate: Window 'Save Content' being destroyed
+[2023.07.26-16.38.50:974][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-16.38.51:112][ 90]LogSavePackage: Moving output files for package: /Game/Characters/Animations/PlayerAnimation/SwordSlash
+[2023.07.26-16.38.51:113][ 90]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/SwordSlashE53364904EABBE99D15C2281ED124CC3.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/Characters/Animations/PlayerAnimation/SwordSlash.uasset'
+[2023.07.26-16.38.51:121][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 26.7 sec)
+[2023.07.26-16.38.51:125][ 90]AssetCheck: New page: Asset Save: SwordSlash
+[2023.07.26-16.38.51:125][ 90]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Animations/PlayerAnimation/SwordSlash.SwordSlash
+[2023.07.26-16.38.55:226][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.07.26-16.38.56:278][304]LogSlate: Window 'Delete Assets' being destroyed
+[2023.07.26-16.38.56:396][304]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.38.56:396][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.38.56:465][304]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.38.56:465][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.38.56:474][304]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.38.56:474][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.38.56:483][304]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/Animations/PlayerAnimation/SwordSlash.SwordSlash
+	Asset Type: AnimSequence
+[2023.07.26-16.38.56:676][304]LogAnimation: Warning: Invalid animation
+[2023.07.26-16.38.56:770][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.07.26-16.38.56:802][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.07.26-16.38.56:833][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.07.26-16.38.57:637][340]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.26-16.38.57:642][340]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.07.26-16.38.57:643][340]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.26-16.38.57:643][340]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.26-16.38.57:643][340]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 352 us)
+[2023.07.26-16.38.57:644][340]LogWorldPartition: Display: GenerateStreaming took 220 us (total: 10 ms)
+[2023.07.26-16.38.57:644][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.26-16.38.57:644][340]PIE: New page: PIE session: ThirdPersonMap (26 lip 2023, 20:38:57)
+[2023.07.26-16.38.57:644][340]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.26-16.38.57:649][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004676s)
+[2023.07.26-16.38.57:649][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004708s)
+[2023.07.26-16.38.57:649][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.38.57:650][340]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.07.26-16.38.57:650][340]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.07.26-16.38.57:650][340]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.26-16.38.57:650][340]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.26-16.38.57:651][340]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.07.26-16.38.57:651][340]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.03 sec)
+[2023.07.26-16.38.57:651][340]LogPlayLevel: PIE: World Init took: (0.002068s)
+[2023.07.26-16.38.57:677][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.07.26-16.38.57:679][340]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.07.26-16.38.57:679][340]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.26-16.38.57:679][340]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.26-16.38.57:679][340]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.26-16.38.57:679][340]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.26-16.38.57:679][340]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.26-16.38.57:679][340]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.26-16.38.57:679][340]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.26-16.38.57:679][340]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.26-16.38.57:680][340]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.26-16.38.57:680][340]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.26-16.38.57:680][340]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.26-16.38.57:681][340]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.26-16.38.57:714][340]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Realtek(R) Audio)
+[2023.07.26-16.38.57:714][340]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.26-16.38.57:714][340]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.26-16.38.57:714][340]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.26-16.38.57:716][340]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2023.07.26-16.38.57:716][340]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2023.07.26-16.38.57:718][340]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2023.07.26-16.38.57:718][340]LogInit: FAudioDevice initialized.
+[2023.07.26-16.38.57:718][340]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2023.07.26-16.38.57:718][340]LogAudio: Display: Audio Device (ID: 35) registered with world 'ThirdPersonMap'.
+[2023.07.26-16.38.57:720][340]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.26-16.38.57:724][340]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.38.57:726][340]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.07.26-18.38.57
+[2023.07.26-16.38.57:727][340]LogWorld: Bringing up level for play took: 0.007180
+[2023.07.26-16.38.57:729][340]LogOnline: OSS: Created online subsystem instance for: :Context_141
+[2023.07.26-16.38.57:730][340]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.38.57:730][340]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.38.57:731][340]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=320.000 Y=-1050.000 Z=31.201
+[2023.07.26-16.38.57:732][340]PIE: Server logged in
+[2023.07.26-16.38.57:732][340]PIE: Play in editor total start time 0,09 seconds.
+[2023.07.26-16.38.59:637][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-16.38.59:637][405]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.26-16.38.59:637][405]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.38.59:637][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.38.59:637][405]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.07.26-16.38.59:664][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.26-16.38.59:668][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.38.59:700][405]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.26-16.38.59:701][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.07.26-16.38.59:703][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.07.26-16.38.59:708][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-16.38.59:711][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.07.26-16.38.59:766][406]LogPlayLevel: Display: Destroying online subsystem :Context_141
+[2023.07.26-16.39.01:690][519]LogViewport: Scene viewport resized to 946x665, mode Windowed.
+[2023.07.26-16.39.04:382][586]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\adria\Desktop\SwordSlash.FBX)
+[2023.07.26-16.39.04:387][586]LogFbx: Loading FBX Scene from C:\Users\adria\Desktop\SwordSlash.FBX
+[2023.07.26-16.39.04:409][586]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.26-16.39.19:373][586]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.07.26-16.39.19:397][586]LogFbx: SortedLinks :(0) root
+[2023.07.26-16.39.19:397][586]LogFbx: SortedLinks :(1) pelvis
+[2023.07.26-16.39.19:397][586]LogFbx: SortedLinks :(2) spine_01
+[2023.07.26-16.39.19:397][586]LogFbx: SortedLinks :(3) spine_02
+[2023.07.26-16.39.19:397][586]LogFbx: SortedLinks :(4) spine_03
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(5) clavicle_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(6) upperarm_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(7) lowerarm_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(8) hand_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(9) index_01_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(10) index_02_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(11) index_03_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(12) middle_01_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(13) middle_02_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(14) middle_03_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(15) pinky_01_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(16) pinky_02_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(17) pinky_03_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(18) ring_01_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(19) ring_02_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(20) ring_03_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(21) thumb_01_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(22) thumb_02_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(23) thumb_03_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(26) clavicle_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(27) upperarm_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(28) lowerarm_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(29) hand_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(30) index_01_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(31) index_02_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(32) index_03_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(33) middle_01_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(34) middle_02_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(35) middle_03_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(36) pinky_01_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(37) pinky_02_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(38) pinky_03_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(39) ring_01_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(40) ring_02_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(41) ring_03_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(42) thumb_01_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(43) thumb_02_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(44) thumb_03_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(47) neck_01
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(48) head
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(49) thigh_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(50) calf_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(52) foot_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(53) ball_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(55) thigh_r
+[2023.07.26-16.39.19:398][586]LogFbx: SortedLinks :(56) calf_r
+[2023.07.26-16.39.19:399][586]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2023.07.26-16.39.19:399][586]LogFbx: SortedLinks :(58) foot_r
+[2023.07.26-16.39.19:399][586]LogFbx: SortedLinks :(59) ball_r
+[2023.07.26-16.39.19:399][586]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2023.07.26-16.39.19:399][586]LogFbx: SortedLinks :(61) ik_foot_root
+[2023.07.26-16.39.19:399][586]LogFbx: SortedLinks :(62) ik_foot_l
+[2023.07.26-16.39.19:399][586]LogFbx: SortedLinks :(63) ik_foot_r
+[2023.07.26-16.39.19:399][586]LogFbx: SortedLinks :(64) ik_hand_root
+[2023.07.26-16.39.19:399][586]LogFbx: SortedLinks :(65) ik_hand_gun
+[2023.07.26-16.39.19:399][586]LogFbx: SortedLinks :(66) ik_hand_l
+[2023.07.26-16.39.19:399][586]LogFbx: SortedLinks :(67) ik_hand_r
+[2023.07.26-16.39.19:399][586]LogFbx: Parsing AnimStack Unreal Take
+[2023.07.26-16.39.19:633][586]LogFbx: CurveName : blendOrient1
+[2023.07.26-16.39.19:633][586]LogFbx: CurveName(blendOrient1) is skipped because it only contains invalid values.
+[2023.07.26-16.39.19:633][586]LogFbx: CurveName : blendParent1
+[2023.07.26-16.39.19:633][586]LogFbx: CurveName(blendParent1) is skipped because it only contains invalid values.
+[2023.07.26-16.39.19:853][586]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.39.19:857][586]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.39.19:860][586]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Quinn_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.39.19:862][586]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.39.19:864][586]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.39.21:491][675]LogViewport: Scene viewport resized to 1920x670, mode Windowed.
+[2023.07.26-16.39.22:811][735]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Animations/PlayerAnimation/SwordSlash.SwordSlash
+[2023.07.26-16.39.22:811][735]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.39.22:822][735]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.39.23:037][735]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.39.23:160][735]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.39.23:182][735]LogViewport: Scene viewport resized to 1520x692, mode Windowed.
+[2023.07.26-16.39.23:199][735]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.07.26-16.39.26:776][894]LogWorld: UWorld::CleanupWorld for World_109, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.39.26:776][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.39.26:787][894]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.39.26:787][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.39.26:835][894]LogWorld: UWorld::CleanupWorld for World_108, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.39.26:835][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.39.34:696][331]LogContentBrowser: Deferred new asset file creation: SwordSlash_Montage
+[2023.07.26-16.39.34:707][331]LogContentBrowser: Creating deferred item: SwordSlash_Montage
+[2023.07.26-16.39.34:718][332]LogContentBrowser: Renaming the item being created (Deferred Item: SwordSlash_Montage).
+[2023.07.26-16.39.35:680][390]LogContentBrowser: Attempting asset rename: SwordSlash_Montage -> SwordSlash_Montage
+[2023.07.26-16.39.35:695][390]LogContentBrowser: End creating deferred item SwordSlash_Montage
+[2023.07.26-16.39.37:700][509]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Characters/Animations/PlayerAnimation/SwordSlash_Montage.SwordSlash_Montage
+[2023.07.26-16.39.37:700][509]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.39.37:711][509]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.39.37:927][509]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.39.38:047][509]LogViewport: Scene viewport resized to 1520x692, mode Windowed.
+[2023.07.26-16.39.46:955][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.07.26-16.39.47:782][937]LogSlate: Window 'Save Content' being destroyed
+[2023.07.26-16.39.47:792][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-16.39.47:923][937]LogSavePackage: Moving output files for package: /Game/Characters/Animations/PlayerAnimation/SwordSlash
+[2023.07.26-16.39.47:923][937]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/SwordSlash3063FA754F83E9ED3B100CB247185A0C.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/Characters/Animations/PlayerAnimation/SwordSlash.uasset'
+[2023.07.26-16.39.47:938][937]LogSavePackage: Moving output files for package: /Game/Characters/Animations/PlayerAnimation/SwordSlash_Montage
+[2023.07.26-16.39.47:938][937]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/SwordSlash_MontageE36E3F9F41ECAD661F0FEFAB75BAAEF6.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/Characters/Animations/PlayerAnimation/SwordSlash_Montage.uasset'
+[2023.07.26-16.39.47:947][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 26.9 sec)
+[2023.07.26-16.39.47:953][937]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.26-16.39.47:953][937]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Characters/Animations/PlayerAnimation/SwordSlash_Montage.SwordSlash_Montage
+[2023.07.26-16.39.47:953][937]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Animations/PlayerAnimation/SwordSlash.SwordSlash
+[2023.07.26-16.39.56:493][342]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.26-16.39.56:494][342]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.26-16.39.56:494][342]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.26-16.40.18:346][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-16.40.18:427][420]LogSavePackage: Moving output files for package: /Game/Characters/Animations/PlayerAnimation/SwordSlash_Montage
+[2023.07.26-16.40.18:429][420]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/SwordSlash_MontageF34E5C5D4208740979303F8F3B415861.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/Characters/Animations/PlayerAnimation/SwordSlash_Montage.uasset'
+[2023.07.26-16.40.18:436][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 27.0 sec)
+[2023.07.26-16.40.18:443][420]AssetCheck: New page: Asset Save: SwordSlash_Montage
+[2023.07.26-16.40.18:443][420]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Characters/Animations/PlayerAnimation/SwordSlash_Montage.SwordSlash_Montage
+[2023.07.26-16.40.54:687][716]LogDerivedDataCache: C:/Users/adria/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.100 and deleted 0 files with total size 0 MiB. Scanned 8677 files in 8532 folders with total size 934 MiB.
+[2023.07.26-16.41.45:327][259]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Player/ABP_Player.ABP_Player
+[2023.07.26-16.41.45:328][259]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.41.45:336][259]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.41.45:348][259]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_113:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.41.45:890][259]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.41.46:023][259]LogViewport: Scene viewport resized to 434x459, mode Windowed.
+[2023.07.26-16.41.46:047][259]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.07.26-16.42.28:907][881]BlueprintLog: New page: Compile ABP_Player
+[2023.07.26-16.42.28:971][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.07.26-16.42.30:686][968]LogViewport: Scene viewport resized to 192x192, mode Windowed.
+[2023.07.26-16.42.32:333][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-16.42.32:415][ 51]LogSavePackage: Moving output files for package: /Game/Characters/Player/ABP_Player
+[2023.07.26-16.42.32:416][ 51]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/ABP_PlayerCE8B0FEA4459AB507ABFCE8F20DE7FAD.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/Characters/Player/ABP_Player.uasset'
+[2023.07.26-16.42.32:423][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 27.1 sec)
+[2023.07.26-16.42.32:428][ 51]AssetCheck: New page: Asset Save: ABP_Player
+[2023.07.26-16.42.32:428][ 51]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/Player/ABP_Player.ABP_Player
+[2023.07.26-16.43.43:778][460]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.26-16.43.43:785][460]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.07.26-16.43.43:786][460]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.26-16.43.43:786][460]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.26-16.43.43:786][460]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 360 us)
+[2023.07.26-16.43.43:786][460]LogWorldPartition: Display: GenerateStreaming took 243 us (total: 10 ms)
+[2023.07.26-16.43.43:787][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.26-16.43.43:787][460]PIE: New page: PIE session: ThirdPersonMap (26 lip 2023, 20:43:43)
+[2023.07.26-16.43.43:787][460]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.26-16.43.43:792][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004835s)
+[2023.07.26-16.43.43:792][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004868s)
+[2023.07.26-16.43.43:792][460]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.43.43:792][460]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.07.26-16.43.43:793][460]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.07.26-16.43.43:793][460]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.26-16.43.43:793][460]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.26-16.43.43:794][460]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.07.26-16.43.43:794][460]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.03 sec)
+[2023.07.26-16.43.43:794][460]LogPlayLevel: PIE: World Init took: (0.002278s)
+[2023.07.26-16.43.43:829][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.07.26-16.43.43:832][460]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2023.07.26-16.43.43:832][460]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.26-16.43.43:832][460]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.26-16.43.43:832][460]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.26-16.43.43:832][460]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.26-16.43.43:832][460]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.26-16.43.43:832][460]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.26-16.43.43:832][460]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.26-16.43.43:832][460]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.26-16.43.43:833][460]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.26-16.43.43:833][460]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.26-16.43.43:833][460]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.26-16.43.43:834][460]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.26-16.43.43:877][460]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Realtek(R) Audio)
+[2023.07.26-16.43.43:878][460]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.26-16.43.43:878][460]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.26-16.43.43:878][460]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.26-16.43.43:879][460]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2023.07.26-16.43.43:879][460]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2023.07.26-16.43.43:881][460]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2023.07.26-16.43.43:881][460]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2023.07.26-16.43.43:881][460]LogInit: FAudioDevice initialized.
+[2023.07.26-16.43.43:881][460]LogAudio: Display: Audio Device (ID: 36) registered with world 'ThirdPersonMap'.
+[2023.07.26-16.43.43:884][460]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.26-16.43.43:886][460]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.43.43:890][460]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.07.26-18.43.43
+[2023.07.26-16.43.43:891][460]LogWorld: Bringing up level for play took: 0.007516
+[2023.07.26-16.43.43:893][460]LogOnline: OSS: Created online subsystem instance for: :Context_150
+[2023.07.26-16.43.43:894][460]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.43.43:894][460]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.43.43:897][460]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=320.000 Y=-1050.000 Z=31.201
+[2023.07.26-16.43.43:897][460]PIE: Server logged in
+[2023.07.26-16.43.43:898][460]PIE: Play in editor total start time 0,113 seconds.
+[2023.07.26-16.43.47:337][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-16.43.47:337][579]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.26-16.43.47:337][579]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.43.47:338][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.43.47:338][579]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.07.26-16.43.47:374][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.26-16.43.47:378][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.43.47:416][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-16.43.47:416][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.07.26-16.43.47:418][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.07.26-16.43.47:426][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.07.26-16.43.47:476][580]LogPlayLevel: Display: Destroying online subsystem :Context_150
+[2023.07.26-16.44.05:154][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-16.44.05:236][379]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.07.26-16.44.05:237][379]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_ThirdPersonCharacter16B0A0D3438921C83F5ED49B4E9A5668.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.07.26-16.44.05:245][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 27.2 sec)
+[2023.07.26-16.44.05:252][379]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.07.26-16.44.05:252][379]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.07.26-16.45.03:924][933]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.07.26-16.45.03:944][933]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.45.03:944][933]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.45.03:946][933]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.45.03:946][933]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.45.03:948][933]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.45.03:948][933]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.45.03:998][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.07.26-16.45.04:014][933]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.45.04:014][933]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.45.04:718][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-16.45.04:812][966]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.07.26-16.45.04:813][966]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_ThirdPersonCharacter51987DB1406BF1A3A3A974A95C7DE42B.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.07.26-16.45.04:822][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 27.3 sec)
+[2023.07.26-16.45.04:826][966]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.07.26-16.45.04:826][966]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.07.26-16.45.07:165][ 94]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.26-16.45.07:172][ 94]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.07.26-16.45.07:174][ 94]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.26-16.45.07:174][ 94]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.26-16.45.07:174][ 94]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 366 us)
+[2023.07.26-16.45.07:174][ 94]LogWorldPartition: Display: GenerateStreaming took 245 us (total: 11 ms)
+[2023.07.26-16.45.07:174][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.26-16.45.07:174][ 94]PIE: New page: PIE session: ThirdPersonMap (26 lip 2023, 20:45:07)
+[2023.07.26-16.45.07:174][ 94]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.26-16.45.07:181][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005713s)
+[2023.07.26-16.45.07:181][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005751s)
+[2023.07.26-16.45.07:181][ 94]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.45.07:182][ 94]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.07.26-16.45.07:182][ 94]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.07.26-16.45.07:182][ 94]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.26-16.45.07:182][ 94]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.26-16.45.07:183][ 94]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.07.26-16.45.07:183][ 94]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.03 sec)
+[2023.07.26-16.45.07:183][ 94]LogPlayLevel: PIE: World Init took: (0.002298s)
+[2023.07.26-16.45.07:216][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.07.26-16.45.07:221][ 94]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2023.07.26-16.45.07:221][ 94]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.26-16.45.07:221][ 94]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.26-16.45.07:221][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.26-16.45.07:221][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.26-16.45.07:221][ 94]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.26-16.45.07:221][ 94]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.26-16.45.07:221][ 94]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.26-16.45.07:221][ 94]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.26-16.45.07:221][ 94]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.26-16.45.07:221][ 94]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.26-16.45.07:221][ 94]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.26-16.45.07:223][ 94]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.26-16.45.07:263][ 94]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Realtek(R) Audio)
+[2023.07.26-16.45.07:263][ 94]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.26-16.45.07:263][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.26-16.45.07:263][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.26-16.45.07:264][ 94]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2023.07.26-16.45.07:264][ 94]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2023.07.26-16.45.07:266][ 94]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2023.07.26-16.45.07:266][ 94]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2023.07.26-16.45.07:266][ 94]LogInit: FAudioDevice initialized.
+[2023.07.26-16.45.07:266][ 94]LogAudio: Display: Audio Device (ID: 37) registered with world 'ThirdPersonMap'.
+[2023.07.26-16.45.07:268][ 94]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.26-16.45.07:271][ 94]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.45.07:275][ 94]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.07.26-18.45.07
+[2023.07.26-16.45.07:275][ 94]LogWorld: Bringing up level for play took: 0.006778
+[2023.07.26-16.45.07:277][ 94]LogOnline: OSS: Created online subsystem instance for: :Context_151
+[2023.07.26-16.45.07:278][ 94]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.45.07:278][ 94]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.45.07:279][ 94]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=320.000 Y=-1050.000 Z=31.201
+[2023.07.26-16.45.07:280][ 94]PIE: Server logged in
+[2023.07.26-16.45.07:280][ 94]PIE: Play in editor total start time 0,108 seconds.
+[2023.07.26-16.45.19:658][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-16.45.19:658][532]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.26-16.45.19:659][532]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.45.19:659][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.45.19:659][532]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.07.26-16.45.19:690][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.26-16.45.19:696][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.45.19:736][532]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.26-16.45.19:737][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2023.07.26-16.45.19:738][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2023.07.26-16.45.19:744][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-16.45.19:747][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.07.26-16.45.19:795][533]LogPlayLevel: Display: Destroying online subsystem :Context_151
+[2023.07.26-16.45.39:865][580]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.26-16.45.39:870][580]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.07.26-16.45.39:872][580]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.26-16.45.39:872][580]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.26-16.45.39:872][580]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 372 us)
+[2023.07.26-16.45.39:872][580]LogWorldPartition: Display: GenerateStreaming took 224 us (total: 11 ms)
+[2023.07.26-16.45.39:872][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.26-16.45.39:872][580]PIE: New page: PIE session: ThirdPersonMap (26 lip 2023, 20:45:39)
+[2023.07.26-16.45.39:872][580]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.26-16.45.39:878][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004784s)
+[2023.07.26-16.45.39:878][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004815s)
+[2023.07.26-16.45.39:878][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.45.39:878][580]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.07.26-16.45.39:879][580]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.07.26-16.45.39:879][580]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.26-16.45.39:879][580]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.26-16.45.39:880][580]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.07.26-16.45.39:880][580]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.03 sec)
+[2023.07.26-16.45.39:880][580]LogPlayLevel: PIE: World Init took: (0.002080s)
+[2023.07.26-16.45.39:917][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.07.26-16.45.39:920][580]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2023.07.26-16.45.39:920][580]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.26-16.45.39:920][580]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.26-16.45.39:920][580]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.26-16.45.39:920][580]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.26-16.45.39:920][580]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.26-16.45.39:920][580]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.26-16.45.39:920][580]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.26-16.45.39:920][580]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.26-16.45.39:920][580]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.26-16.45.39:920][580]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.26-16.45.39:920][580]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.26-16.45.39:922][580]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.26-16.45.39:953][580]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Realtek(R) Audio)
+[2023.07.26-16.45.39:953][580]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.26-16.45.39:953][580]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.26-16.45.39:953][580]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.26-16.45.39:954][580]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2023.07.26-16.45.39:954][580]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2023.07.26-16.45.39:956][580]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2023.07.26-16.45.39:956][580]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2023.07.26-16.45.39:956][580]LogInit: FAudioDevice initialized.
+[2023.07.26-16.45.39:956][580]LogAudio: Display: Audio Device (ID: 38) registered with world 'ThirdPersonMap'.
+[2023.07.26-16.45.39:958][580]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.26-16.45.39:964][580]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.45.39:967][580]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.07.26-18.45.39
+[2023.07.26-16.45.39:968][580]LogWorld: Bringing up level for play took: 0.008854
+[2023.07.26-16.45.39:970][580]LogOnline: OSS: Created online subsystem instance for: :Context_152
+[2023.07.26-16.45.39:971][580]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.45.39:971][580]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.45.39:972][580]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=320.000 Y=-1050.000 Z=31.201
+[2023.07.26-16.45.39:973][580]PIE: Server logged in
+[2023.07.26-16.45.39:973][580]PIE: Play in editor total start time 0,102 seconds.
+[2023.07.26-16.45.48:697][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-16.45.48:697][881]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.26-16.45.48:697][881]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.45.48:698][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.45.48:698][881]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.07.26-16.45.48:728][881]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.26-16.45.48:733][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.45.48:774][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-16.45.48:774][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.07.26-16.45.48:778][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.07.26-16.45.48:786][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.07.26-16.45.48:835][882]LogPlayLevel: Display: Destroying online subsystem :Context_152
+[2023.07.26-16.45.51:688][ 32]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemys/Dummy.Dummy
+[2023.07.26-16.45.51:689][ 32]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.45.52:119][ 32]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.46.09:099][665]BlueprintLog: New page: Compile Dummy
+[2023.07.26-16.46.09:144][665]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.46.09:186][665]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.46.09:189][665]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.46.09:194][665]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.46.09:197][665]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.46.09:201][665]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.46.09:206][665]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.46.09:214][665]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.46.09:272][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.07.26-16.46.09:276][665]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.46.09:279][665]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.46.09:284][665]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.46.09:289][665]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.46.09:295][665]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.46.09:306][665]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.46.09:309][665]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.46.09:314][665]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.46.09:319][665]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.46.10:331][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.07.26-16.46.11:340][702]LogSlate: Window 'Save Content' being destroyed
+[2023.07.26-16.46.11:350][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-16.46.11:502][702]LogSavePackage: Moving output files for package: /Game/Characters/Enemys/Dummy
+[2023.07.26-16.46.11:502][702]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/Dummy0C5530394DAD3EC9195FD4BAC4A60499.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/Characters/Enemys/Dummy.uasset'
+[2023.07.26-16.46.11:506][702]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/FK/2H9DWHNR8F080YVSRSBZJA
+[2023.07.26-16.46.11:507][702]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/2H9DWHNR8F080YVSRSBZJAB62E673946D82BB1DC50198564FCE06F.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/FK/2H9DWHNR8F080YVSRSBZJA.uasset'
+[2023.07.26-16.46.11:519][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 27.4 sec)
+[2023.07.26-16.46.11:526][702]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.26-16.46.11:526][702]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/Enemys/Dummy.Dummy
+[2023.07.26-16.46.11:526][702]LogContentValidation: Display: Validating /Game/Characters/Enemys/Dummy.Dummy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Dummy_C_UAID_E4A8DFCE26226A9901_1407931383
+[2023.07.26-16.46.14:053][832]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.26-16.46.14:059][832]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.07.26-16.46.14:062][832]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.26-16.46.14:062][832]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.26-16.46.14:062][832]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 379 us)
+[2023.07.26-16.46.14:062][832]LogWorldPartition: Display: GenerateStreaming took 280 us (total: 11 ms)
+[2023.07.26-16.46.14:062][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.26-16.46.14:062][832]PIE: New page: PIE session: ThirdPersonMap (26 lip 2023, 20:46:14)
+[2023.07.26-16.46.14:062][832]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.26-16.46.14:068][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005236s)
+[2023.07.26-16.46.14:068][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005270s)
+[2023.07.26-16.46.14:068][832]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.46.14:068][832]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.07.26-16.46.14:068][832]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.07.26-16.46.14:068][832]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.26-16.46.14:068][832]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.26-16.46.14:070][832]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.07.26-16.46.14:070][832]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.03 sec)
+[2023.07.26-16.46.14:070][832]LogPlayLevel: PIE: World Init took: (0.002088s)
+[2023.07.26-16.46.14:117][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.07.26-16.46.14:119][832]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2023.07.26-16.46.14:119][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.26-16.46.14:119][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.26-16.46.14:119][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.26-16.46.14:119][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.26-16.46.14:119][832]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.26-16.46.14:119][832]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.26-16.46.14:119][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.26-16.46.14:119][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.26-16.46.14:120][832]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.26-16.46.14:120][832]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.26-16.46.14:120][832]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.26-16.46.14:122][832]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.26-16.46.14:163][832]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Realtek(R) Audio)
+[2023.07.26-16.46.14:163][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.26-16.46.14:163][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.26-16.46.14:163][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.26-16.46.14:164][832]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2023.07.26-16.46.14:164][832]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2023.07.26-16.46.14:167][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2023.07.26-16.46.14:167][832]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2023.07.26-16.46.14:167][832]LogInit: FAudioDevice initialized.
+[2023.07.26-16.46.14:167][832]LogAudio: Display: Audio Device (ID: 39) registered with world 'ThirdPersonMap'.
+[2023.07.26-16.46.14:170][832]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.26-16.46.14:174][832]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.46.14:178][832]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.07.26-18.46.14
+[2023.07.26-16.46.14:179][832]LogWorld: Bringing up level for play took: 0.008676
+[2023.07.26-16.46.14:181][832]LogOnline: OSS: Created online subsystem instance for: :Context_154
+[2023.07.26-16.46.14:182][832]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.46.14:182][832]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.46.14:183][832]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=320.000 Y=-1050.000 Z=31.201
+[2023.07.26-16.46.14:184][832]PIE: Server logged in
+[2023.07.26-16.46.14:184][832]PIE: Play in editor total start time 0,125 seconds.
+[2023.07.26-16.46.33:457][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-16.46.33:457][518]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.26-16.46.33:460][518]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.46.33:461][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.46.33:461][518]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.07.26-16.46.33:487][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.26-16.46.33:491][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.46.33:538][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-16.46.33:538][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.07.26-16.46.33:540][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.07.26-16.46.33:548][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.07.26-16.46.33:618][519]LogPlayLevel: Display: Destroying online subsystem :Context_154
+[2023.07.26-16.46.36:878][671]LogWorld: UWorld::CleanupWorld for World_115, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.46.36:878][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.47.02:677][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.26-16.47.02:764][783]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.07.26-16.47.02:764][783]LogSavePackage: Moving '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/BP_ThirdPersonCharacter9C0D57594FBF3FB5720C32A922DAB32E.tmp' to '../../../../../../Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.07.26-16.47.02:774][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 27.5 sec)
+[2023.07.26-16.47.02:780][783]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.07.26-16.47.02:780][783]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.07.26-16.47.04:764][882]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.26-16.47.04:770][882]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.07.26-16.47.04:772][882]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.26-16.47.04:772][882]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.26-16.47.04:772][882]LogWorldPartition: Display: GetPartitionedActors took 9 us (total: 389 us)
+[2023.07.26-16.47.04:772][882]LogWorldPartition: Display: GenerateStreaming took 322 us (total: 12 ms)
+[2023.07.26-16.47.04:773][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.26-16.47.04:773][882]PIE: New page: PIE session: ThirdPersonMap (26 lip 2023, 20:47:04)
+[2023.07.26-16.47.04:774][882]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.26-16.47.04:779][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005894s)
+[2023.07.26-16.47.04:779][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005949s)
+[2023.07.26-16.47.04:779][882]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.47.04:780][882]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.07.26-16.47.04:780][882]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.07.26-16.47.04:780][882]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.26-16.47.04:780][882]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.26-16.47.04:781][882]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.07.26-16.47.04:781][882]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.03 sec)
+[2023.07.26-16.47.04:781][882]LogPlayLevel: PIE: World Init took: (0.002281s)
+[2023.07.26-16.47.04:817][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.07.26-16.47.04:826][882]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.07.26-16.47.04:826][882]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.26-16.47.04:826][882]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.26-16.47.04:826][882]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.26-16.47.04:826][882]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.26-16.47.04:826][882]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.26-16.47.04:826][882]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.26-16.47.04:826][882]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.26-16.47.04:826][882]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.26-16.47.04:826][882]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.26-16.47.04:826][882]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.26-16.47.04:826][882]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.26-16.47.04:829][882]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.26-16.47.04:866][882]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Realtek(R) Audio)
+[2023.07.26-16.47.04:866][882]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.26-16.47.04:866][882]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.26-16.47.04:866][882]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.26-16.47.04:867][882]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2023.07.26-16.47.04:867][882]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2023.07.26-16.47.04:869][882]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2023.07.26-16.47.04:869][882]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2023.07.26-16.47.04:869][882]LogInit: FAudioDevice initialized.
+[2023.07.26-16.47.04:869][882]LogAudio: Display: Audio Device (ID: 40) registered with world 'ThirdPersonMap'.
+[2023.07.26-16.47.04:871][882]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.26-16.47.04:874][882]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.47.04:877][882]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.07.26-18.47.04
+[2023.07.26-16.47.04:878][882]LogWorld: Bringing up level for play took: 0.007143
+[2023.07.26-16.47.04:880][882]LogOnline: OSS: Created online subsystem instance for: :Context_155
+[2023.07.26-16.47.04:881][882]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.47.04:881][882]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.47.04:882][882]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=320.000 Y=-1050.000 Z=31.201
+[2023.07.26-16.47.04:883][882]PIE: Server logged in
+[2023.07.26-16.47.04:883][882]PIE: Play in editor total start time 0,114 seconds.
+[2023.07.26-16.47.57:327][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-16.47.57:327][805]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.26-16.47.57:328][805]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.47.57:328][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.47.57:328][805]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.07.26-16.47.57:352][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.26-16.47.57:356][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.47.57:396][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-16.47.57:396][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.07.26-16.47.57:398][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.07.26-16.47.57:407][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.07.26-16.47.57:469][806]LogPlayLevel: Display: Destroying online subsystem :Context_155
+[2023.07.26-16.48.02:961][ 55]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemys/Dummy.Dummy
+[2023.07.26-16.48.02:962][ 55]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.48.03:414][ 55]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.48.18:475][627]LogViewport: Scene viewport resized to 946x665, mode Windowed.
+[2023.07.26-16.48.22:214][809]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.26-16.48.22:221][809]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.07.26-16.48.22:223][809]LogWorldPartition: Display: GenerateStreaming started...
+[2023.07.26-16.48.22:223][809]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.07.26-16.48.22:223][809]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 396 us)
+[2023.07.26-16.48.22:223][809]LogWorldPartition: Display: GenerateStreaming took 272 us (total: 12 ms)
+[2023.07.26-16.48.22:223][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.26-16.48.22:223][809]PIE: New page: PIE session: ThirdPersonMap (26 lip 2023, 20:48:22)
+[2023.07.26-16.48.22:224][809]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.26-16.48.22:231][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007630s)
+[2023.07.26-16.48.22:231][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007673s)
+[2023.07.26-16.48.22:231][809]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-16.48.22:232][809]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.07.26-16.48.22:232][809]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.07.26-16.48.22:232][809]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.26-16.48.22:232][809]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.26-16.48.22:233][809]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.07.26-16.48.22:233][809]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.03 sec)
+[2023.07.26-16.48.22:233][809]LogPlayLevel: PIE: World Init took: (0.002452s)
+[2023.07.26-16.48.22:272][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.07.26-16.48.22:274][809]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2023.07.26-16.48.22:274][809]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.26-16.48.22:274][809]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.26-16.48.22:274][809]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.26-16.48.22:274][809]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.26-16.48.22:274][809]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.26-16.48.22:274][809]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.26-16.48.22:274][809]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.26-16.48.22:274][809]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.26-16.48.22:274][809]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.26-16.48.22:274][809]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.26-16.48.22:274][809]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.26-16.48.22:277][809]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.26-16.48.22:320][809]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Realtek(R) Audio)
+[2023.07.26-16.48.22:321][809]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.26-16.48.22:321][809]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.26-16.48.22:321][809]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.26-16.48.22:322][809]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2023.07.26-16.48.22:322][809]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2023.07.26-16.48.22:324][809]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2023.07.26-16.48.22:324][809]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2023.07.26-16.48.22:324][809]LogInit: FAudioDevice initialized.
+[2023.07.26-16.48.22:324][809]LogAudio: Display: Audio Device (ID: 41) registered with world 'ThirdPersonMap'.
+[2023.07.26-16.48.22:327][809]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.26-16.48.22:330][809]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2023.07.26-16.48.22:335][809]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.07.26-18.48.22
+[2023.07.26-16.48.22:336][809]LogWorld: Bringing up level for play took: 0.009103
+[2023.07.26-16.48.22:338][809]LogOnline: OSS: Created online subsystem instance for: :Context_157
+[2023.07.26-16.48.22:339][809]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.07.26-16.48.22:339][809]LogSkeletalMesh: Display: OnRegister[/Game/Characters/Player/Gladiator_52.Gladiator_52]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.07.26-16.48.22:341][809]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=320.000 Y=-1050.000 Z=31.201
+[2023.07.26-16.48.22:341][809]PIE: Server logged in
+[2023.07.26-16.48.22:342][809]PIE: Play in editor total start time 0,122 seconds.
+[2023.07.26-16.48.35:477][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-16.48.35:477][384]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.07.26-16.48.35:477][384]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.48.35:478][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.48.35:478][384]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.07.26-16.48.35:488][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.26-16.48.35:492][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.48.35:533][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-16.48.35:533][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.07.26-16.48.35:535][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.07.26-16.48.35:545][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.07.26-16.48.35:624][385]LogPlayLevel: Display: Destroying online subsystem :Context_157
+[2023.07.26-16.48.39:874][607]LogViewport: Scene viewport resized to 1920x670, mode Windowed.
