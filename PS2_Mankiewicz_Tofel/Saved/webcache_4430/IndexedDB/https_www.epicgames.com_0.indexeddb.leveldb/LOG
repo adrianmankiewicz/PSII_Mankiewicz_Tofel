@@ -1,0 +1,6 @@
+2023/09/07-13:53:43.550 6cac Creating DB C:/Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/webcache_4430\IndexedDB\https_www.epicgames.com_0.indexeddb.leveldb since it was missing.
+2023/09/07-13:53:43.555 6cac Reusing MANIFEST C:/Users/adria/Documents/GitHub/PSII_Mankiewicz_Tofel/PS2_Mankiewicz_Tofel/Saved/webcache_4430\IndexedDB\https_www.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/07-13:54:15.916 5798 Level-0 table #5: started
+2023/09/07-13:54:15.919 5798 Level-0 table #5: 2780 bytes OK
+2023/09/07-13:54:15.921 5798 Delete type=0 #3
+2023/09/07-13:54:15.922 5798 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
